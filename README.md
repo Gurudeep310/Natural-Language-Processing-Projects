@@ -6,4 +6,6 @@ Under this context, I carried out data exploration besides computing Heap's and 
 
 ### Sentiment Analysis:
 "WASSA-2017 Shared Task on Emotion Intensity" served as my dataset. Later, as seen in the paper "IITP at EmoInt-2017: Measuring Intensity of Emotions Using Sentence Embeddings and Optimized Features," data cleaning and feature extraction from various lexicons were performed. When the final train data was developed, it was used to create a Naive Bayes Classifier for sentiment analysis.
+Link for the Dataset: https://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html
+
 
