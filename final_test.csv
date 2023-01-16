@@ -1,0 +1,797 @@
+,index,tweet,sentiment,score,all_hashtaged_words,VanderSentiment_pos,VanderSentiment_neg,VanderSentiment_neu,VanderSentiment_overall,polar_word_count_pos,polar_word_count_neg,Sentinent140_scores,hashtag_polarity,emotion_word_count_anticipation,emotion_word_count_disgust,emotion_word_count_fear,emotion_word_count_joy,emotion_word_count_negative,emotion_word_count_positive,emotion_word_count_sadness,emotion_word_count_surprise,emotion_word_count_trust,emotion_word_count_anger,score_hashtag_emotion_lexicon,emoticons_score
+0,10858,i would have almost took offense to this if i actually snapped you,anger,0.458,[],0.0,0.125,0.875,-0.1832,0,0,0.676,neural,0,1,1,0,1,0,1,0,0,1,0.0,0
+1,10859,that rutgers game was an abomination an affront to god and man we must never speak of it again,anger,0.562,[],0.104,0.0,0.896,0.2732,0,3,-0.286,neural,1,2,3,1,2,1,1,1,1,2,0.0,0
+2,10860,thats what lisa asked before she started raging at me can i call you  heh,anger,0.5,[],0.0,0.278,0.722,-0.6124,0,1,1.442,neural,0,1,1,0,1,0,0,0,0,1,0.0,0
+3,10861,sometimes i get mad over something so minuscule i try to ruin somebodies life not like lose your job like get you into federal prison,anger,0.708,[],0.132,0.343,0.525,-0.8249,2,5,-2.682,neural,0,2,4,0,4,1,4,1,0,3,0.0,-2
+4,10862,sometimes i get mad over something so minuscule i try to ruin somebodies life not like lose your job like get you into federal prison,anger,0.646,['anger'],0.132,0.343,0.525,-0.8249,2,5,-2.682,neural,0,2,4,0,4,1,4,1,0,3,1.09234579133429,-2
+5,10863,i think canaday amp must actually have to be working like me amp brady because i havent got any snap chat videos today,anger,0.25,[],0.102,0.0,0.898,0.3612,1,0,-0.15,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+6,10864,my eyes have been dilated i hate the world right now with the rage of a thousand fiery dragons i need a drink,anger,0.812,[],0.0,0.327,0.673,-0.8658,2,4,0.0,neural,0,1,1,0,2,0,1,0,0,2,0.0,0
+7,10865,one chosen by the clp members mp seats are not for people to dole out to their mates we elect candidates,anger,0.682,['fuming'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,1,2,1,0,1,0,1.27576473512286,0
+8,10866,one chosen by the clp members mp seats are not for people to dole out to their mates we elect candidates,anger,0.438,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,1,2,1,0,1,0,0.0,0
+9,10867,onochin can you please not have canadian players play us players that lag is atrocious,anger,0.646,"['fixthisgame', 'trash', 'sfvrefund']",0.246,0.126,0.628,0.3182,1,2,-1.049,neural,0,1,0,0,2,0,0,0,0,1,1.42551825591674,0
+10,10868,i love how theres no outrage that its a white man but if it was a black man them blm would be all over it regardless of reason,anger,0.726,[],0.146,0.0,0.854,0.5348,3,2,-0.264,neural,0,1,0,1,1,2,0,0,0,1,0.0,0
+11,10869,me being on my dean really saving a lot of ppl bc i dont snap nomore amp it take so much out of me,anger,0.348,[],0.0,0.0,1.0,0.0,0,0,-0.176,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+12,10870,sorry guys i have absolutely no idea what time ill be on cam tomorrow but will keep you posted,anger,0.417,['fuming'],0.0,0.231,0.769,-0.4208,1,2,0.0,neural,2,1,1,0,1,0,1,0,0,1,1.27576473512286,0
+13,10871,sorry guys i have absolutely no idea what time ill be on cam tomorrow but will keep you posted,anger,0.202,[],0.0,0.231,0.769,-0.4208,1,2,0.0,neural,2,1,1,0,1,0,1,0,0,1,0.0,0
+14,10872,is it me or is ding wearing the look of a man whos just found his arch enemy in bed with his missus,anger,0.557,['angryman'],0.0,0.137,0.863,-0.5423,1,1,0.0,neural,0,1,1,1,1,1,0,0,1,1,0.0,0
+15,10873,is it me or is ding wearing the look of a man whos just found his arch enemy in bed with his missus,anger,0.5,"['angryman', 'scowl']",0.0,0.137,0.863,-0.5423,1,1,0.0,neural,0,1,1,1,1,1,0,0,1,1,0.0,0
+16,10874,netflixnchill i fuck with madden way harder,anger,0.521,[],0.0,0.368,0.632,-0.5423,0,1,-0.754,neural,0,0,1,0,1,0,0,0,0,1,0.0,0
+17,10875,obama must be fuming lol,anger,0.5,[],0.295,0.389,0.316,-0.2263,0,0,3.0,neural,0,0,0,0,1,0,0,0,0,1,0.0,3
+18,10876,hate when guys cant control their anger upsidedownface upsidedownface,anger,0.646,[],0.219,0.27,0.511,-0.1783,0,2,0.0,neural,0,1,1,0,2,0,1,0,0,2,0.0,0
+19,10877,she would frown a bit folding her arms why is it that every time im in need of assistance someone expects a lil,anger,0.5,[],0.0,0.0,1.0,0.0,0,2,0.0,neural,1,0,0,0,1,1,1,0,0,0,0.0,0
+20,10878,literally fuming fuck sake,anger,0.86,[],0.0,0.783,0.217,-0.802,0,0,0.0,neural,0,0,0,0,1,0,0,0,0,1,0.0,0
+21,10879,oh so thats where brian was where was my invite,anger,0.438,[],0.151,0.0,0.849,0.1531,0,0,1.0,neural,1,0,0,1,0,1,0,1,1,0,0.0,1
+22,10880,oh so thats where brian was where was my invite,anger,0.417,['offended'],0.151,0.0,0.849,0.1531,0,0,1.0,neural,1,0,0,1,0,1,0,1,1,0,0.0,1
+23,10881,frustration looking up at elphaba in a frown of aggravation her high pitched voice was growing more and more,anger,0.604,[],0.078,0.142,0.78,-0.34,0,3,0.0,neural,0,1,0,0,3,0,1,0,0,2,0.0,0
+24,10882,its the most magical time of the year xmas party announced and the commences gotta love silicon valley millennials,anger,0.429,['outrage'],0.289,0.0,0.711,0.7845,2,0,0.0,neural,2,0,0,2,0,2,0,1,0,0,0.870299627014696,0
+25,10883,i am sitting here wrapped in a fluffy blanket with incense burning listening to bon iver and drinking mulled wine im there,anger,0.25,[],0.0,0.0,1.0,0.0,0,1,0.0,neural,0,0,0,0,2,0,0,0,1,1,0.0,0
+26,10884,take 2k out of it the numbers on madden are low and have dropped and people are unhappy,anger,0.586,[],0.0,0.234,0.766,-0.5994,0,3,-4.3629999999999995,neural,0,1,1,0,2,1,1,0,0,2,0.0,-2
+27,10885,i wouldnt have issues if she didnt have issues think about that one,anger,0.5,"['anger', 'lying', 'pow', 'lies', 'confusion']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,2.702516416904335,0
+28,10886,i will fight this guy dont insult the lions like that but seriously they kinda are wasted some of the best players,anger,0.708,[],0.284,0.233,0.483,0.3957,3,3,0.0,neural,0,2,1,0,3,0,1,1,0,3,0.0,0
+29,10887,everybody talking about the first day of fall but summer 16 is never gonna die,anger,0.417,['revenge'],0.232,0.0,0.768,0.6392,0,1,-3.818,neural,0,0,1,0,2,0,2,0,0,0,1.01218021425014,-3
+30,10888,the rage has died down,anger,0.438,[],0.0,0.706,0.294,-0.802,0,2,-0.457,neural,0,0,0,0,1,0,0,0,0,1,0.0,0
+31,10889,ananya just grabbed a bible opened it started reading and then said where do they talk about burning people ,anger,0.417,[],0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,2,0,0,0,0,0.0,0
+32,10890,all brian does is sleep and aggravate me,anger,0.833,[],0.0,0.333,0.667,-0.5423,0,1,-0.176,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+33,10891,sidhnani true they r burning with others pleasure ppl in true love happiness everywhere grinningfacewithbigeyes,anger,0.312,[],0.631,0.0,0.369,0.9524,3,0,0.0,neural,1,0,0,4,0,4,0,0,2,0,0.0,0
+34,10892,so in your opinion is this the worst delhi govt,anger,0.708,"['acrid', 'bitter', 'hypocrisy']",0.0,0.313,0.687,-0.6249,0,1,-0.262,neural,0,0,0,0,0,0,0,0,0,0,0.854551270046557,0
+35,10893,so in your opinion is this the worst delhi govt,anger,0.526,"['acrid', 'hypocrisy']",0.0,0.313,0.687,-0.6249,0,1,-0.262,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+36,10894,i live and die for mchanzo honeymoon crashing and burning the second they move in together,anger,0.479,[],0.0,0.206,0.794,-0.5994,2,0,0.0,neural,1,0,1,1,1,1,1,1,1,0,0.0,0
+37,10895,for the first time in my madden career i just set up a farm account should make motm much easier,anger,0.271,[],0.128,0.0,0.872,0.4215,2,1,0.0,neural,3,0,1,0,1,1,0,0,1,1,0.0,0
+38,10896,ber off ncfc is a grudge match,anger,0.542,[],0.0,0.0,1.0,0.0,0,1,0.0,neural,0,0,0,0,1,0,0,0,0,1,0.0,0
+39,10897,might just leave and aggravate bae,anger,0.417,[],0.0,0.54,0.46,-0.5719,1,1,-0.213,neural,0,0,0,0,1,0,1,1,0,0,0.0,0
+40,10898,realest ever relentless ever inevitable that i win,anger,0.415,[],0.455,0.0,0.545,0.6124,0,2,4.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,4
+41,10899,kik to trade have fun or a conversation kik youraffair,anger,0.241,"['kik', 'kikme', 'messageme', 'textme', 'pics', 'trade', 'tradepics', 'dm', 'bored']",0.268,0.0,0.732,0.5106,0,1,0.0,neural,1,0,0,1,0,1,0,0,1,0,1.2989235757780457,0
+42,10900,kik to trade have fun or a conversation kik youraffair,anger,0.167,"['kik', 'kikme', 'messageme', 'textme', 'pics', 'trade', 'tradepics', 'dm', 'snap', 'bored']",0.268,0.0,0.732,0.5106,0,1,0.0,neural,1,0,0,1,0,1,0,0,1,0,1.2989235757780457,0
+43,10901,youre so thirsty for the chance to disagree w the left that you dont even realize when something is an affront to your bigoted platform,anger,0.5,[],0.072,0.094,0.833,-0.1531,1,2,0.0,neural,0,2,2,0,4,0,2,2,0,3,0.0,0
+44,10902,so to the girl that just hit my car not only did she get lucky w no scratch but also from being spared the wrath of sleep deprived kait upsidedownface,anger,0.542,[],0.055,0.166,0.779,-0.5927,2,2,0.0,neural,0,0,1,1,2,1,0,1,0,2,0.0,0
+45,10903,hes just too raging to type properly ha ha,anger,0.375,[],0.338,0.239,0.423,0.1027,2,2,3.025,neural,0,1,1,0,1,0,0,0,0,1,0.0,2
+46,10904,decent new song,anger,0.125,"['oow16', 'sting']",0.0,0.0,1.0,0.0,1,0,1.024,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+47,10905,ok scrubbed hands 5 times before trying to put them in eyeballs accidentally scared the whilst,anger,0.604,"['burning', 'cat', 'screeching']",0.107,0.259,0.634,-0.4767,0,2,0.0,neural,0,0,0,0,0,0,0,1,0,0,0.464834518906532,0
+48,10906,just joined and was sorted into hufflepuff enragedface enragedface enragedface,anger,0.708,"['pottermore', 'fuming']",0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,1.27576473512286,0
+49,10907,just joined and was sorted into hufflepuff enragedface enragedface enragedface,anger,0.438,['pottermore'],0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+50,10908,dont ask you dont get apologies if ive offended you all due respect alan i think youve been fed duff info,anger,0.427,[],0.129,0.083,0.788,0.2732,1,0,0.697,neural,1,0,0,1,1,1,1,0,1,1,0.0,0
+51,10909,i miss my gran singing rawhide in her deep baritone growl,anger,0.292,[],0.0,0.138,0.862,-0.1531,0,3,0.0,neural,0,0,1,0,1,0,0,0,0,1,0.0,0
+52,10910,having a baby born too soon is 6 years on and it feels like only yesterday,anger,0.375,"['lifechanging', 'sad', 'happy', 'angry', 'emotionalrollercoaster']",0.143,0.0,0.857,0.3612,1,1,-0.22,negative,0,0,0,1,0,1,0,0,0,0,6.5981392571990645,0
+53,10911,having a baby born too soon is 6 years on and it feels like only yesterday,anger,0.354,"['lifechanging', 'sad', 'happy', 'emotionalrollercoaster']",0.143,0.0,0.857,0.3612,1,1,-0.22,negative,0,0,0,1,0,1,0,0,0,0,5.171014703994144,0
+54,10912,i would always be honest but its great to feedback opinion to the brand dont want to offend them,anger,0.438,['BlogHour'],0.383,0.05,0.567,0.8689,3,1,0.0,neural,0,2,1,1,1,1,1,0,1,2,0.0,0
+55,10913,no no i insist that you give me your best insult first,anger,0.562,[],0.331,0.179,0.489,0.4191,2,1,0.0,neural,0,1,0,0,1,0,1,1,0,1,0.0,0
+56,10914,coincidentally watched ulzanas raid last night brutally indignant filmmaking,anger,0.542,[],0.0,0.493,0.507,-0.7783,0,2,0.0,neural,0,0,1,0,2,0,0,1,0,2,0.0,0
+57,10915,saddest part of this whole mess is that all of this is they should march 2 the,anger,0.667,"['anger', 'misdirected', 'WhiteHouse']",0.0,0.302,0.698,-0.7579,0,1,0.0,neural,0,1,0,0,1,1,0,0,0,0,1.09234579133429,0
+58,10916,note to self  stop laughing at things that offend you its ok to get mad at people,anger,0.542,"['offended', 'mad', 'upset']",0.216,0.304,0.48,-0.296,0,2,0.0,neural,0,2,1,1,2,1,1,0,0,2,2.12647722886226,0
+59,10917,i think our defense here at usc is playing well we just need to fix a few things on offense and we can win the pac 12 this year,anger,0.25,[],0.261,0.057,0.682,0.7351,3,1,-0.255,neural,1,1,2,0,1,1,1,0,0,2,0.0,0
+60,10918,eat my ass is no longer an insult,anger,0.438,[],0.0,0.643,0.357,-0.8402,0,1,-2.0,neural,0,1,0,0,2,1,1,1,0,1,0.0,-2
+61,10919,why to have vanity sizes now sizes s xsevenxxs sometimes are too big wtf dear corporate jerks lithuania didnt need this,anger,0.708,"['rant', 'angry']",0.095,0.285,0.62,-0.6369,1,3,-0.194,neural,0,0,0,0,1,1,0,0,0,0,2.79412614274447,0
+62,10920,why to have vanity sizes now sizes s xsevenxxs sometimes are too big wtf dear corporate jerks lithuania didnt need this,anger,0.518,['rant'],0.095,0.285,0.62,-0.6369,1,3,-0.194,neural,0,0,0,0,1,1,0,0,0,0,1.36700158953955,0
+63,10921,i turn the game on wanting to play madden and before i load up a game i just turn it off now,anger,0.5,[],0.103,0.0,0.897,0.34,1,3,-0.168,neural,0,0,1,0,2,0,1,0,0,1,0.0,0
+64,10922,ive always been fiery but never radical,anger,0.438,[],0.0,0.221,0.779,-0.1779,1,1,0.742,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+65,10923,taking umbrage because jimmy carr claimed that bilbo baggins went to mordor on 8 out of 10 cats does countdown know your baggins mate,anger,0.375,[],0.0,0.0,1.0,0.0,0,0,0.715,neural,1,0,0,0,0,1,0,0,1,0,0.0,0
+66,10924,anger resentment and hatred are the destroyer of your fortune today,anger,0.396,[],0.0,0.663,0.337,-0.93,1,4,-0.15,neural,1,2,2,1,4,1,2,1,1,4,0.0,0
+67,10925,anger resentment and hatred are the destroyer of your fortune today ,anger,0.375,[],0.0,0.663,0.337,-0.93,1,4,0.0,neural,1,2,2,1,4,1,2,1,1,4,0.0,0
+68,10926,if i spend even 5 minutes with you and you already irritate me i seriously will bitch you out until you shut up,anger,0.812,[],0.0,0.293,0.707,-0.8074,2,3,-0.132,neural,0,1,1,0,1,0,1,0,0,1,0.0,0
+69,10927,sting is just too damn earnest for early morning listening,anger,0.37,[],0.236,0.193,0.571,0.1531,2,3,1.025,neural,0,1,1,0,2,1,0,0,0,2,0.0,0
+70,10928,sting is just too damn earnest for early morning listening,anger,0.446,['sting'],0.236,0.193,0.571,0.1531,2,3,1.025,neural,0,1,1,0,2,1,0,0,0,2,0.0,0
+71,10929,just seeing alex revells face gets me angry,anger,0.583,[],0.0,0.32,0.68,-0.5106,1,1,-4.15,neural,0,1,0,0,1,0,0,0,0,1,0.0,-3
+72,10930,spent months arranging swap new jobs etc now ive found out shes been leading me on a merry dance with her,anger,0.667,['fuming'],0.149,0.0,0.851,0.5423,3,0,-0.205,neural,0,0,0,3,1,3,0,0,3,0,1.27576473512286,0
+73,10931,beware the fury of a weak king,anger,0.417,[],0.0,0.569,0.431,-0.765,0,3,0.0,neural,1,0,2,0,2,1,1,0,0,1,0.0,0
+74,10932,jeanfranko growl,anger,0.5,[],0.0,0.0,1.0,0.0,0,1,0.0,neural,0,0,1,0,1,0,0,0,0,1,0.0,0
+75,10933,sam browns law never offend people with style when you can fake that you have to break us in this island,anger,0.333,[],0.079,0.129,0.792,-0.2987,0,3,0.0,neural,0,1,0,0,2,0,0,1,1,1,0.0,0
+76,10934,event started everyone is getting ready to travel to the lake of rage where everything glows,anger,0.521,[],0.124,0.179,0.697,-0.2732,1,1,0.0,neural,1,0,0,0,1,0,0,0,0,1,0.0,0
+77,10935,old in scotland the right wingers are the most rabid anti nationalists socialists are mostly in favour,anger,0.604,[],0.142,0.126,0.732,0.0828,2,0,0.694,neural,1,1,1,0,1,0,1,0,0,1,0.0,0
+78,10936,ny69 people will always get offended everyones situation is different just because we have kids doesnt mean we have to settle,anger,0.562,[],0.0,0.091,0.909,-0.25,3,1,-0.31,neural,0,0,0,0,1,0,1,0,0,1,0.0,0
+79,10937,weeks1 i try not to let my anger seep into reviews but i resent having my time wasted on books like that time is precious,anger,0.625,[],0.224,0.235,0.541,0.1531,1,3,0.0,neural,3,1,0,1,3,1,0,1,0,3,0.0,0
+80,10938,i hope my hustle dont offend nobody,anger,0.292,[],0.489,0.0,0.511,0.5842,1,1,-1.148,neural,1,1,0,1,1,1,0,1,1,1,0.0,0
+81,10939,just watched django unchained other people may frown but i titter in delight 25,anger,0.229,[],0.292,0.0,0.708,0.7469,2,1,0.0,neural,1,0,0,1,1,1,1,0,0,0,0.0,0
+82,10940,lol little things like that make me so angry x,anger,0.604,[],0.309,0.261,0.43,-0.0566,1,2,0.0,neural,0,1,0,0,1,0,0,0,0,1,0.0,0
+83,30903,old saying a shared is one gained for another day mckeen,joy,0.5,['smile'],0.357,0.0,0.643,0.6124,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.545147406734757,0
+84,30904,bridget jones baby was bloody hilarious grinningfacewithsweat,joy,0.86,['BridgetJonesBaby'],0.255,0.274,0.472,-0.0516,1,1,0.0,neural,0,1,1,2,1,2,1,1,0,1,0.0,0
+85,30905,sparkling water makes your life sparkly,joy,0.521,[],0.306,0.0,0.694,0.296,1,0,0.608,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+86,30906,im tired of everybody telling me to chill out and everythings ok no the fuck its not im tired of faking a a fucking smile,joy,0.042,[],0.284,0.219,0.498,0.3289,1,3,3.879,neural,0,0,0,1,2,1,0,1,1,0,0.0,2
+87,30907,can cheer me up smilingface,joy,0.417,['GBBO'],0.452,0.0,0.548,0.5106,1,0,0.0,neural,1,0,0,1,0,1,0,1,1,0,0.0,0
+88,30908,amp as much as i hate for a dude to cheat women forego pleasing their man they get lazy amp men get lazy amp then its just pointless,joy,0.16,[],0.089,0.307,0.604,-0.8074,2,5,-0.148,neural,0,2,1,0,6,0,2,0,0,2,0.0,0
+89,30909,happy birthday jin young,joy,0.75,"['PrinceJinyoungDay', 'happyjinyoungday', 'got7', 'birthday']",0.552,0.0,0.448,0.5719,1,0,0.0,neural,2,0,0,2,0,2,0,1,1,0,0.775575746380743,0
+90,30910,happy birthday jin young,joy,0.688,"['PrinceJinyoungDay', 'happyjinyoungday', 'got7', 'happy', 'birthday']",0.552,0.0,0.448,0.5719,1,0,0.0,neural,2,0,0,2,0,2,0,1,1,0,2.9375456290234427,0
+91,30911,the race advances only by the extra achievements of the individual you are the individual charles towne,joy,0.34,"['optimism', 'inspire']",0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,2.9058215405991197,0
+92,30912,the race advances only by the extra achievements of the individual you are the individual charles towne,joy,0.258,['inspire'],0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,1.30808256692181,0
+93,30913,watching football matches without commentary is something that i rejoice found a transmission of city’s match like that today joyful,joy,0.688,[],0.354,0.0,0.646,0.8519,3,0,4.337,neural,2,0,0,4,0,4,0,1,3,0,0.0,3
+94,30914,comes on soon,joy,0.712,"['twd', 'happy']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,2.1619698826427,0
+95,30915,comes on soon,joy,0.333,['twd'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+96,30916,thank you for my obama cut out i am elated that hes back home smilingfacewithhearteyes,joy,0.833,[],0.322,0.101,0.577,0.6808,3,1,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+97,30917,oh  almost with odd cheerfulness big boss offers muzzle flash blinding accidental by the guy who became my best friend ,joy,0.396,[],0.358,0.116,0.525,0.8366,2,4,0.0,neural,1,0,2,2,2,2,0,1,2,0,0.0,0
+98,30918,gemma simmons is the bright spot of the premiere so far,joy,0.521,['AgentsofSHIELD'],0.225,0.0,0.775,0.4404,1,1,-0.183,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+99,30919,this is a beautiful day that the lord has made i will rejoice and be glad,joy,0.88,[],0.43,0.0,0.57,0.8689,4,0,4.34,neural,2,1,0,3,1,4,0,1,2,0,0.0,3
+100,30920,watch this amazing live ly broadcast by peterson come watch,joy,0.52,"['lively', 'musically.']",0.481,0.0,0.519,0.8126,2,0,0.0,neural,2,0,2,0,0,0,0,0,0,0,0.0,0
+101,30921,sometimes i like to talk about my sadness other times i just want to be distracted by friends laughter shopping eating,joy,0.25,[],0.332,0.174,0.493,0.5859,4,2,0.0,neural,2,0,0,2,2,3,1,2,2,1,0.0,0
+102,30922,oi youve absolutely fucking killed me 30 mins later im still crying with laughter grindah grindah nerdface hahahahahahaha,joy,0.846,[],0.121,0.31,0.569,-0.7159,0,1,1.337,neural,1,0,0,1,1,1,1,1,0,0,0.0,0
+103,30923,so happy i live in nyc see you tomorrow,joy,0.729,[],0.333,0.0,0.667,0.6115,2,0,-0.151,neural,2,0,0,1,0,1,0,0,1,0,0.0,0
+104,30924,accept the challenges so that you may feel the exhilaration of victory,joy,0.36,[],0.281,0.0,0.719,0.4404,3,0,0.929,neural,1,0,0,2,0,2,0,1,1,0,0.0,0
+105,30925,for what a beautiful day,joy,0.854,['elated'],0.494,0.0,0.506,0.5994,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.53533078509892,0
+106,30926,for what a beautiful day,joy,0.64,[],0.494,0.0,0.506,0.5994,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+107,30927,hunter yeah bro it eas hella exhilarating,joy,0.604,[],0.509,0.0,0.491,0.6361,1,0,8.0,neural,1,0,1,0,1,0,1,0,0,0,0.0,3
+108,30928,sometimes im sad then remember margaret thatcher is dead and then i rejoice,joy,0.292,[],0.143,0.365,0.493,-0.6705,1,2,5.6579999999999995,neural,1,0,0,1,0,1,0,1,1,0,0.0,4
+109,30929,this is not me brown nosing but ive listened to lots of housing ministers but impressed me more than any,joy,0.354,['nhf16'],0.179,0.0,0.821,0.631,0,0,-0.319,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+110,30930,this is not me brown nosing but ive listened to lots of housing ministers but impressed me more than any,joy,0.354,"['nhf16', 'optimism']",0.179,0.0,0.821,0.631,0,0,-0.319,neural,0,0,0,0,0,0,0,0,0,0,1.59773897367731,0
+111,30931,any possibly kg is being bought out as a player so that he can buy in from glen as a minority owner,joy,0.32,['optimism'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,2,0,0,0,0,0,1.59773897367731,0
+112,30932,martin roth leaving vamp a shoes the effects of bright and talented foreigners made to feel unwelcome and leaving u k,joy,0.2,"['Brexit:', 'c4news']",0.23,0.1,0.669,0.5423,2,1,0.0,neural,0,0,0,0,1,0,1,0,0,0,0.0,0
+113,30933,one thing i can say is that you kept me smiling,joy,0.66,[],0.231,0.0,0.769,0.4588,1,0,3.916,neural,0,0,0,1,0,1,0,0,0,0,0.0,2
+114,30934,always has me,joy,0.833,"['blackish', 'rollin', 'hilarious']",0.0,0.0,1.0,0.0,0,0,-0.176,neural,0,0,0,0,0,0,0,0,0,0,0.381180105271662,0
+115,30935,always has me,joy,0.625,"['blackish', 'rollin']",0.0,0.0,1.0,0.0,0,0,-0.176,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+116,30936,how is your toddler coping with the new arrival has he tried killing her yet  they cheerfully ask,joy,0.292,[],0.132,0.187,0.681,-0.3182,0,1,0.613,neural,1,0,1,0,1,0,1,0,0,1,0.0,0
+117,30937,american schools are lively,joy,0.614,[],0.492,0.0,0.508,0.4404,1,0,2.882,neural,0,0,0,0,0,0,0,0,0,0,0.0,2
+118,30938,drawing mini comics is joyful folding mini comics is meditative and relaxing i think i need to do them for more than just halloween,joy,0.562,[],0.311,0.0,0.689,0.8591,2,1,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+119,30939,korgoth of barbaria for brutality king julian for hilarity and ariel because hot,joy,0.438,[],0.0,0.25,0.75,-0.6124,2,1,-0.142,neural,0,0,1,1,1,2,0,0,0,2,0.0,0
+120,30940,i love those that randomly popinto my head have me like an for ages 󾌴,joy,0.875,"['memories', 'smiling']",0.34,0.0,0.66,0.7717,2,0,0.0,neural,0,0,0,1,0,1,0,1,0,0,3.3222929980702602,0
+121,30941,she laughed a bit of course it was aria shook her head calming her mirth so she could listen to mikey no actually ,joy,0.438,[],0.301,0.117,0.583,0.7717,2,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+122,30942,cant wait to see you hun,joy,0.773,"['cuddles', 'gossip', 'laughter']",0.0,0.0,1.0,0.0,0,0,0.0,neural,1,0,0,0,1,0,0,0,0,0,0.225942610624183,0
+123,30943,cant wait to see you hun,joy,0.669,"['cuddles', 'gossip']",0.0,0.0,1.0,0.0,0,0,0.0,neural,1,0,0,0,1,0,0,0,0,0,0.0,0
+124,30944,god hears your voice optimism at the moment that you think that everything has failed you sparkles,joy,0.312,[],0.326,0.136,0.537,0.5574,1,0,3.822,neural,2,0,1,2,0,2,0,1,2,0,0.0,3
+125,30945,my bf drove out of his way after a long day just to spend 15 min holding me to make me feel better howd i get so lucky,joy,0.938,"['lucky', 'happy']",0.2,0.0,0.8,0.7591,3,1,3.0,neural,1,0,0,1,0,1,0,1,0,0,2.8362918953182708,3
+126,30946,my bf drove out of his way after a long day just to spend 15 min holding me to make me feel better howd i get so lucky,joy,0.708,['lucky'],0.2,0.0,0.8,0.7591,3,1,3.0,neural,1,0,0,1,0,1,0,1,0,0,0.674322012675571,3
+127,30947,love this laughing while crying works too,joy,0.667,"['katherinemansfield', 'failure', 'laughter', 'dealingwithfailure']",0.51,0.214,0.276,0.6486,1,1,-0.287,neural,0,0,0,2,1,2,1,0,0,0,0.872947494522177,0
+128,30948,love this laughing while crying works too,joy,0.635,"['katherinemansfield', 'failure', 'dealingwithfailure']",0.51,0.214,0.276,0.6486,1,1,-0.287,neural,0,0,0,2,1,2,1,0,0,0,0.647004883897994,0
+129,30949,they tend to loosen up a bit when drunk and can seem pretty cheerful,joy,0.438,[],0.333,0.119,0.547,0.6486,2,1,2.955,neural,1,0,0,2,0,2,0,1,1,0,0.0,2
+130,30950,softicecream skis god chirp this burp skis softicecream,joy,0.442,[],0.231,0.0,0.769,0.2732,0,0,0.0,neural,1,0,1,2,0,2,0,0,1,0,0.0,0
+131,30951,we so elated we celebrated like obama waited until his last day in office to tell the nation brothers is getting their reparations,joy,0.5,[],0.354,0.0,0.646,0.8991,3,0,0.0,neural,1,0,0,2,0,2,0,0,1,0,0.0,0
+132,30952,angel delight is my everything,joy,0.66,[],0.494,0.0,0.506,0.5994,2,0,0.0,neural,2,0,0,2,0,2,0,1,1,0,0.0,0
+133,30953,i just want to let everyone out there know you are wonderful people night,joy,0.9,"['beyourself', 'happy', 'cheerful', 'late-night', 'compliment', 'behappy']",0.294,0.0,0.706,0.6124,3,0,0.0,neural,0,0,0,1,0,1,0,1,1,0,5.774137822868489,0
+134,30954,i just want to let everyone out there know you are wonderful people night,joy,0.792,"['beyourself', 'late-night', 'compliment', 'behappy']",0.294,0.0,0.706,0.6124,3,0,0.0,neural,0,0,0,1,0,1,0,1,1,0,1.5492446237387,0
+135,30955,has given me so many laughs this afternoon thanks twitter,joy,0.827,"['terribledebatequestions', 'hilarious', 'cleverpeople']",0.444,0.0,0.556,0.749,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.381180105271662,0
+136,30956,has given me so many laughs this afternoon thanks twitter,joy,0.78,"['terribledebatequestions', 'cleverpeople']",0.444,0.0,0.556,0.749,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+137,30957,i just read it and its so fun so lighthearted and cheerful i was right its a double cavity for me,joy,0.62,[],0.399,0.0,0.601,0.9178,3,1,-0.176,neural,1,0,0,2,0,2,0,1,0,0,0.0,0
+138,30958,im at the point in my life that im playing christmas music in my room because i need winter and joyful times rn,joy,0.292,[],0.213,0.0,0.787,0.6908,1,1,0.0,neural,0,0,0,2,0,2,1,0,1,0,0.0,0
+139,30959,luis ortiz ducked by ustinov which means fights off and he left future not looking to bright for ortiz,joy,0.288,['boxing'],0.0,0.231,0.769,-0.6256,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,1.17860098666921,0
+140,30960,another joyful encounter in tribez amp castlez i just met bartolomeo do you want to know who that is download the game and find out,joy,0.667,[],0.184,0.0,0.816,0.6369,3,1,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+141,30961,ciara asks was it a sci fi movie julie amp jen just stare claire on her phone joey bolts when the cab honks lmao,joy,0.82,['hilarious'],0.145,0.0,0.855,0.5994,1,0,4.0,neural,0,0,0,0,0,1,0,0,0,0,0.381180105271662,4
+142,30962,ciara asks was it a sci fi movie julie amp jen just stare claire on her phone joey bolts when the cab honks lmao,joy,0.542,[],0.145,0.0,0.855,0.5994,1,0,4.0,neural,0,0,0,0,0,1,0,0,0,0,0.0,4
+143,30963,happy birthday 56,joy,0.688,"['cheer', 'cheerchick', 'jeep', 'jeepgirl', 'IDriveAJeep', 'jeepjeep', 'Cheer']",0.649,0.0,0.351,0.5719,1,0,-0.341,neural,2,0,0,2,0,2,0,1,1,0,0.49666637295709,0
+144,30964,the little sniffle at the end of the song gets me every time,joy,0.667,['rejoice'],0.0,0.0,1.0,0.0,0,1,0.0,neural,1,0,0,0,0,0,0,0,0,0,2.16828383214492,0
+145,30965,the little sniffle at the end of the song gets me every time,joy,0.3,[],0.0,0.0,1.0,0.0,0,1,0.0,neural,1,0,0,0,0,0,0,0,0,0,0.0,0
+146,30966,i mean is she supposed to seem joyous when shes talking rodrigo duterte isis the american economy etc think about what youre saying,joy,0.216,[],0.157,0.0,0.843,0.6249,1,2,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+147,30967,yesmake her smile and be happyshe deserves happiness,joy,0.75,[],0.504,0.0,0.496,0.7269,2,0,4.067,neural,1,0,0,2,0,2,0,1,1,0,0.0,3
+148,30968,keep smiling,joy,0.654,[],0.75,0.0,0.25,0.4588,1,0,3.916,neural,0,0,0,1,0,1,0,0,0,0,0.0,2
+149,30969,ever wake up and instantly feel happy,joy,0.646,[],0.381,0.0,0.619,0.5719,1,0,4.196,neural,1,0,0,1,0,1,0,0,1,0,0.0,3
+150,30970,i still respect you i suppose there is so little to be gleeful about these days so take what you can good for you,joy,0.417,[],0.315,0.0,0.685,0.8637,3,1,0.676,neural,2,0,0,2,0,2,0,1,2,0,0.0,0
+151,30971,cpc the single tear is him being joyous that hes deleted the monster that has brought generations of despair,joy,0.317,[],0.175,0.098,0.726,0.4215,1,2,-3.692,neural,0,1,2,1,2,1,1,0,0,1,0.0,-3
+152,30972,rrif you dont do things while youre young youll have nothing to about when youre old rr,joy,0.536,"[""Quoteoftheday\\r\\r'If"", 'wild', 'smile', 'quotes']",0.0,0.0,1.0,0.0,0,0,-0.155,neural,0,0,0,0,0,0,0,0,0,0,0.6040930580479784,0
+153,30973,all the bright places,joy,0.226,[],0.492,0.0,0.508,0.4404,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+154,30974,im honored to take on such a role in their joyous day hopefully i dont fuck it up,joy,0.5,[],0.49,0.0,0.51,0.9253,2,0,-0.132,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+155,30975,im the reason i smile everyday hundredpoints,joy,0.78,[],0.294,0.0,0.706,0.3612,2,0,0.0,neural,0,0,0,1,0,2,0,1,1,0,0.0,0
+156,30976,lowkey i want to go just to chirp anna lol but say hi to atkins for me one of my favourite coaches hes smart and caring,joy,0.66,[],0.331,0.0,0.669,0.872,3,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+157,30977,its all about and,joy,0.5,"['redwine', 'glee']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.185969244761638,0
+158,30978,its all about and,joy,0.236,['redwine'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+159,30979,hunt1 i will next time ill make sure everything is sparkling clean,joy,0.34,[],0.4,0.156,0.444,0.5267,4,1,1.738,neural,1,1,1,1,1,1,1,0,1,1,0.0,2
+160,30980,take my kindness for weakness when you acting silly keeping it 100 aint your forté,joy,0.288,"['ChrisBrown', 'TeamBreezy']",0.217,0.148,0.635,0.0772,1,2,0.0,neural,0,0,0,1,2,1,0,0,0,0,0.0,0
+161,30981,take my kindness for weakness when you acting silly keeping it 100 aint your forté,joy,0.188,"['breezy', 'ChrisBrown', 'TeamBreezy']",0.217,0.148,0.635,0.0772,1,2,0.0,neural,0,0,0,1,2,1,0,0,0,0,0.0,0
+162,30982,i envy the relentless your cheerful smile aimed at the pouring rain your positive attitude is an art you have continually mastered,joy,0.519,[],0.361,0.07,0.569,0.8271,3,2,1.175,neural,1,0,0,3,0,3,1,3,1,0,0.0,0
+163,30983,im moving this weekend amp my sugar daddy will replace it so it is what it is niggas still happy,joy,0.458,[],0.154,0.1,0.747,0.3182,3,0,4.196,neural,1,0,0,1,0,2,0,0,1,0,0.0,3
+164,30984,anyone who drinks sparkling water is a demon,joy,0.12,[],0.239,0.0,0.761,0.296,1,1,0.0,neural,0,1,1,0,1,0,1,0,0,1,0.0,0
+165,30985,modern family never fails to cheer me up especially phil,joy,0.729,[],0.179,0.207,0.614,-0.0951,3,0,0.0,neural,1,0,0,1,0,1,0,1,1,0,0.0,0
+166,30986,,joy,0.52,"['smile', 'instagramers', 'Selfie#BestMeSelfie#Me#Smile#BestMeCameraIsGreat#EmojiGrid#LikeforLike#Friend#Girl#Boy#Tattoos#Family#6Pack#G...']",0.0,0.0,0.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.545147406734757,0
+167,30987,lb awesome my 9 yr old grandson runs cross country no simon whitfield but still a lot of fun cheering him on,joy,0.78,[],0.369,0.052,0.58,0.8968,1,2,0.0,neural,1,0,1,2,1,2,1,0,0,1,0.0,0
+168,30988,18 michael carrick as struck the back of the net much to the delight of under pressure man u fanz and mou,joy,0.481,[],0.144,0.155,0.701,0.1779,2,1,-1.049,neural,1,0,0,1,1,1,0,0,0,0,0.0,0
+169,30989,you may be right but since year the bad events begin with b im privately hoping weve got at least c z to go 1st,joy,0.333,['optimism'],0.118,0.151,0.731,-0.2617,1,2,0.0,neural,0,1,1,0,1,0,1,0,0,1,1.59773897367731,0
+170,30990,you may be right but since year the bad events begin with b im privately hoping weve got at least c z to go 1st,joy,0.229,[],0.118,0.151,0.731,-0.2617,1,2,0.0,neural,0,1,1,0,1,0,1,0,0,1,0.0,0
+171,30991,there’s not a metaphor in the world that will get at the hilarity of jpod pronouncing on humor,joy,0.583,[],0.11,0.0,0.89,0.2732,3,0,3.226,neural,0,0,0,1,0,1,0,0,0,0,0.0,2
+172,30992,successful people always have two things on their lips nd smile to avoid problems nd silence to avoid the problems too,joy,0.357,"['silence', 'smile']",0.203,0.315,0.482,-0.3612,2,5,-0.287,neural,1,0,2,2,2,2,0,1,2,0,0.7586674973603831,0
+173,30993,in geometry today hannah started crying of laughter because ms canning said pp lol,joy,0.635,[],0.299,0.154,0.547,0.4404,0,1,3.0,neural,1,0,0,1,1,1,1,1,0,0,0.0,3
+174,30994,hub i dont see any reason for optimism at this point just stringing together bad performances,joy,0.06,[],0.167,0.167,0.667,0.0,3,1,0.0,neural,1,1,1,1,1,2,1,1,1,1,0.0,0
+175,30995,yall shabazzs name in my phone is easy breezy beautiful amp i will not apologize,joy,0.3,[],0.338,0.064,0.597,0.7582,3,0,-1.206,neural,0,0,0,1,0,2,1,0,1,0,0.0,-1
+176,30996,during the day is jovial at hes a different darker fellow still simply but smiles are few,joy,0.26,"['TribalCouncil', 'Survivor']",0.289,0.0,0.711,0.7269,1,0,0.0,neural,0,0,0,1,0,2,0,0,1,0,0.0,0
+177,30997,partypopper it is time for a most joyous celebration partypopper,joy,0.78,[],0.328,0.0,0.672,0.659,2,0,0.0,neural,2,0,0,2,0,2,0,1,1,0,0.0,0
+178,30998,my first time watching your vids and i died of laughter keep this up dude,joy,0.852,[],0.162,0.182,0.657,-0.1027,0,1,0.0,neural,2,0,0,1,0,1,0,1,0,0,0.0,0
+179,30999,dont think ian knew of pavel he knew about charlie i bet rob will cackle with glee when he heard what has happened,joy,0.33,['thearchers'],0.146,0.125,0.729,0.1531,2,1,-1.314,neural,0,1,1,1,1,1,1,0,0,1,0.0,0
+180,31000,mou is too jovial and trying to impress those players too much no player is bigger than manutd saf wont tolerate all this bs,joy,0.192,[],0.2,0.076,0.724,0.5574,3,3,-0.313,neural,1,0,0,1,2,2,1,0,0,1,0.0,0
+181,31001,your is a messenger of your good will,joy,0.604,['smile'],0.293,0.0,0.707,0.4404,2,0,0.0,neural,1,0,0,1,0,1,0,1,2,0,0.545147406734757,0
+182,31002,imagine if teppu got animated by madhouse tho gt lt,joy,0.333,[],0.189,0.0,0.811,0.2732,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+183,31003,im highly animated even though im decomposing,joy,0.333,[],0.0,0.0,1.0,0.0,2,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+184,31004,jk started this week strong and its still going strong,joy,0.731,['optimism'],0.548,0.0,0.452,0.8176,2,0,2.0,neural,0,0,0,0,0,0,0,0,0,0,1.59773897367731,2
+185,31005,jk started this week strong and its still going strong,joy,0.6,[],0.548,0.0,0.452,0.8176,2,0,2.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,2
+186,31006, youve had me   the whole time watching ishabc after youve lost your it was,joy,0.812,"['glasses!', 'hilarious!']",0.0,0.126,0.874,-0.3182,0,1,-0.219,neural,1,0,0,0,1,0,1,0,0,0,0.0,0
+187,31007,town is lively something happen,joy,0.354,[],0.42,0.0,0.58,0.4404,1,0,-0.425,neural,1,0,0,0,0,0,0,0,0,0,0.0,0
+188,31008,so today i un armed my silence my lungs rejoice in freedom my insides had color too a woman counted my jawbone became a razor for free,joy,0.625,[],0.302,0.0,0.698,0.886,3,1,1.6640000000000001,neural,1,0,2,2,1,3,0,1,2,1,0.0,1
+189,31009,my liver is elated that isnt us,joy,0.58,[],0.412,0.0,0.588,0.6369,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+190,31010,symmetry is key everything must be aesthetically pleasing as possible that is why i hold you twin pistols,joy,0.32,"['DeathTheKid', 'Bot']",0.167,0.0,0.833,0.5267,1,0,1.147,neural,0,0,0,1,0,2,0,0,1,0,0.0,0
+191,31011,oii oiii tomlinson thank you for always making me smile my birthday is in 16 days partypopper mind following me as a gift wrappedgift x225 884,joy,0.82,[],0.256,0.0,0.744,0.7845,2,1,0.0,neural,2,0,0,3,0,3,0,3,1,0,0.0,0
+192,31012,breezy luvvvv,joy,0.56,[],0.0,0.0,1.0,0.0,0,0,5.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+193,31013,my literally cracks me up when i see posts from 2 years ago and later facewithtearsofjoy,joy,0.88,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+194,31014,my literally cracks me up when i see posts from 2 years ago and later facewithtearsofjoy,joy,0.82,['hilarious'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.381180105271662,0
+195,31015,cant cheer for a jigaboo,joy,0.146,[],0.0,0.403,0.597,-0.4023,1,0,0.0,neural,1,0,0,1,0,1,0,1,1,0,0.0,0
+196,31016,a laurel and hearty handshake,joy,0.458,[],0.0,0.0,1.0,0.0,0,0,0.742,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+197,31017,that i dont mind too much smoother thicker texture makes it more hearty also im glad iced coffee is a thing in the uk now,joy,0.5,[],0.111,0.0,0.889,0.4588,1,2,-0.168,neural,1,0,0,1,0,1,0,0,0,0,0.0,0
+198,31018,cant be following u pal hes smiling,joy,0.312,[],0.333,0.0,0.667,0.4588,1,0,3.916,neural,0,0,0,1,0,1,0,0,0,0,0.0,2
+199,31019,love to play underlord while listening to cheery anime music,joy,0.54,[],0.593,0.0,0.407,0.8807,2,0,0.683,neural,1,0,0,3,0,3,1,0,0,0,0.0,0
+200,31020,its an exhilarating feeling working hard and feeling accomplished whether they notice or not you feel fuking good moneymouthface,joy,0.771,[],0.526,0.05,0.425,0.9094,2,1,0.0,neural,3,2,2,4,2,5,2,3,3,2,0.0,0
+201,31021,starting at 22 minutes this weeks is straight up paradigm shift level mirth,joy,0.458,[],0.333,0.0,0.667,0.6705,2,0,3.0,neural,0,0,0,1,0,2,0,0,1,0,0.0,3
+202,31022,someone teach me how to cheer someone up,joy,0.25,[],0.32,0.0,0.68,0.5106,1,0,-0.132,neural,1,0,0,2,0,2,0,2,2,0,0.0,0
+203,31023,and it’s gleeful because they’re so inspired so convinced they’re winning and at last have their strongman,joy,0.583,[],0.589,0.0,0.411,0.9531,1,0,0.0,neural,1,1,0,2,0,2,1,2,3,0,0.0,0
+204,31024,avoiding hearty basset hound no time present time american the brave ydxef,joy,0.32,[],0.2,0.271,0.529,-0.0516,1,0,0.0,neural,3,0,1,1,0,1,0,1,1,0,0.0,0
+205,31025,alternate reality where has a comments section and you can give poems a cheery thumbs up or a disappointed thumbs down,joy,0.246,[],0.14,0.121,0.739,0.128,1,4,-0.457,neural,1,1,0,1,1,1,1,0,0,1,0.0,0
+206,31026,no okay you dont not need to be going out of your way to make sure you are pleasing everyone do what makes you happy,joy,0.231,[],0.293,0.052,0.655,0.8287,4,1,4.196,neural,1,0,0,1,0,1,0,0,1,0,0.0,3
+207,31027,and i think some of our most spiritually weighty experiences came counterintuitively and recognized in hindsight in levity and daily grace,joy,0.44,[],0.123,0.0,0.877,0.4215,2,0,1.762,neural,1,0,1,0,0,1,0,0,0,0,0.0,1
+208,31028,now that i have been sucked into this wormhole of hilarity with no escape i can say how weird and accurate this is,joy,0.577,[],0.0,0.237,0.763,-0.6391,2,1,-0.115,neural,1,1,1,1,2,3,0,0,1,0,0.0,0
+209,31029,dortch7 i make sacrifices to make you happy,joy,0.18,[],0.346,0.0,0.654,0.5719,1,0,4.196,neural,1,1,1,1,1,1,1,0,1,0,0.0,3
+210,31030,im ever so cheerful,joy,0.74,[],0.6,0.0,0.4,0.6696,1,0,2.955,neural,0,0,0,1,0,1,0,1,0,0,0.0,2
+211,31031,agreed so tired of this nonsense soros must be elated,joy,0.04,[],0.346,0.324,0.33,0.1045,1,2,3.924,neural,0,0,0,1,2,2,0,0,1,0,0.0,3
+212,31032,quenched16 attempts by western degenerates 2 imply that dprk stoops to levity will be met by devastating nuclear retaliation,joy,0.062,[],0.0,0.193,0.807,-0.6486,2,1,0.0,neural,0,1,2,0,2,0,1,0,1,2,0.0,0
+213,31033,girlfriends cooking me dinner again spag blow it is not to sure if she need my help facewithtearsofjoy facewithtearsofjoy,joy,0.8,"['girlfriends', 'happy']",0.125,0.091,0.785,0.1872,2,2,0.0,neural,0,0,0,0,0,1,0,0,0,0,2.1619698826427,0
+214,31034,girlfriends cooking me dinner again spag blow it is not to sure if she need my help facewithtearsofjoy facewithtearsofjoy,joy,0.708,['girlfriends'],0.125,0.091,0.785,0.1872,2,2,0.0,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+215,31035,hannah this week on survivor find out who is more buoyant gen x or millenials ,joy,0.52,['survivor'],0.265,0.0,0.735,0.5709,2,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+216,31036,could not be happier,joy,0.921,['happy'],0.0,0.481,0.519,-0.4168,0,0,0.879,neural,0,0,0,0,0,0,0,0,0,0,2.1619698826427,0
+217,31037,could not be happier,joy,0.885,[],0.0,0.481,0.519,-0.4168,0,0,0.879,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+218,31038,happy birthdayyyyyy pretty miss you,joy,0.688,[],0.657,0.152,0.19,0.743,2,1,0.676,neural,2,0,0,2,0,2,0,0,2,0,0.0,0
+219,31039,leafflutteringinwind when shows you have a hundred reasons to cry show it that you have a hundred and one reasons to leafflutteringinwind console,joy,0.577,"['life', 'smile.', 'quotes']",0.0,0.124,0.876,-0.4767,1,1,-0.214,neural,0,0,0,0,1,1,2,0,1,0,0.6487684356861374,0
+220,31040,a can mean a thousand words but it can also hide a thousand,joy,0.354,"['smile', 'problems.', 'Fact', 'TeamFollowBack']",0.0,0.146,0.854,-0.2617,0,1,0.0,neural,0,0,1,0,1,0,0,0,0,1,0.545147406734757,0
+221,31041,gen 8 21 niv—the lord smelled the pleasing aroma and said in his heart “never again will i… lifelong depravity,joy,0.292,[],0.297,0.0,0.703,0.8225,4,0,0.0,neural,0,2,0,0,2,2,0,0,1,1,0.0,0
+222,31042,such merriment amp laughter from at amp an instructional powerpoint presentation well done to all concerned amp thanks,joy,0.59,[],0.453,0.0,0.547,0.891,2,2,3.76,neural,1,0,1,2,0,2,1,2,0,0,0.0,2
+223,31043,but uncle buck is on tho,joy,0.5,"['UncleBuck', 'hilarious']",0.0,0.0,1.0,0.0,0,0,-0.437,neural,0,0,1,0,1,1,0,1,0,0,0.381180105271662,0
+224,31044,but uncle buck is on tho,joy,0.417,['UncleBuck'],0.0,0.0,1.0,0.0,0,0,-0.437,neural,0,0,1,0,1,1,0,1,0,0,0.0,0
+225,31045,every time people push pot prohibitionists rub their hands with because u hand them amp yourself into,joy,0.271,"['Prescription', 'glee', 'Cannabis', 'slavery.']",0.167,0.0,0.833,0.4939,0,0,0.0,neural,1,0,0,0,0,0,0,0,0,0,0.185969244761638,0
+226,31046,modern day book burning without all that awful guilt oh and now with more gleeful social sharing for the ahats,joy,0.312,[],0.35,0.075,0.575,0.8242,2,2,0.0,neural,0,2,1,0,2,0,2,0,0,1,0.0,0
+227,31047,sparkles you make me happy sparkles,joy,0.904,[],0.735,0.0,0.265,0.8074,1,0,3.822,neural,1,0,0,1,0,1,0,0,1,0,0.0,3
+228,31048,my goal would be for us all to be miserable yet jovial in the co of others u know civil but with realization of self,joy,0.169,['IfIWerePresident'],0.072,0.078,0.85,-0.0387,2,1,0.0,neural,0,1,0,1,1,2,1,0,0,1,0.0,0
+229,31049,learning is key while converting your leaning to someone else is door so when you do both you will open the door of success,joy,0.604,['smile'],0.139,0.0,0.861,0.5719,4,0,3.0700000000000003,neural,1,0,0,1,0,2,0,0,1,0,0.545147406734757,2
+230,31050,learning is key while converting your leaning to someone else is door so when you do both you will open the door of success,joy,0.52,['x33'],0.139,0.0,0.861,0.5719,4,0,3.0700000000000003,neural,1,0,0,1,0,2,0,0,1,0,0.0,2
+231,31051,iniesta still the one player i idolize from barca a delight to watch i tell you,joy,0.562,[],0.206,0.0,0.794,0.5994,2,0,0.676,neural,2,0,1,1,1,1,0,0,0,0,0.0,0
+232,31052,every time i hear s organ kick in on the new i break into the goofiest smile,joy,0.712,[],0.135,0.0,0.865,0.3612,1,2,3.879,neural,2,0,0,2,1,1,0,2,1,1,0.0,2
+233,31053,well this is cheery,joy,0.646,['MrRobot'],0.74,0.0,0.26,0.6908,2,0,3.99,neural,1,0,0,1,0,1,0,0,0,0,0.0,3
+234,31054,thanks gen love you miss you happy birthday natong duha heartwitharrow heartwitharrow,joy,0.792,[],0.529,0.078,0.392,0.8807,2,1,0.0,neural,2,0,0,3,0,3,0,1,1,0,0.0,0
+235,31055,is back so happy to see you,joy,0.66,"['survivor', 'SurvivorMillennialsVsGenX']",0.441,0.0,0.559,0.6948,2,0,0.676,neural,1,0,0,1,0,1,0,0,1,0,0.0,0
+236,31056,is back so happy to see you,joy,0.605,"['survivor', 'SurvivorMillennialsVsGenX', 'happy']",0.441,0.0,0.559,0.6948,2,0,0.676,neural,1,0,0,1,0,1,0,0,1,0,2.1619698826427,0
+237,31057,the jovial and forgiving negro is always pressed upon to act against hisher self interest in favor of the oppressor,joy,0.09,[],0.418,0.0,0.582,0.8885,4,1,0.0,neural,0,0,1,1,2,3,2,0,1,1,0.0,0
+238,31058,you could add a jaunty bowor bells,joy,0.479,[],0.268,0.0,0.732,0.296,1,0,0.7,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+239,31059,tweet tweet chirp chirp losers,joy,0.208,[],0.0,0.459,0.541,-0.5267,0,0,0.0,neural,0,0,0,2,0,2,0,0,0,0,0.0,0
+240,31060,be content life is too short,joy,0.68,['smiling'],0.0,0.0,1.0,0.0,1,1,0.0,neural,0,0,0,1,0,1,0,0,1,0,2.01800162909558,0
+241,31061,be content life is too short,joy,0.354,[],0.0,0.0,1.0,0.0,1,1,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+242,31062,thats awesome p s ok what are the odds of that swapping neighborhoods,joy,0.75,['hilarious'],0.364,0.0,0.636,0.743,1,0,-0.867,neural,0,0,0,0,0,0,0,0,0,0,0.381180105271662,0
+243,31063,thats awesome p s ok what are the odds of that swapping neighborhoods,joy,0.52,[],0.364,0.0,0.636,0.743,1,0,-0.867,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+244,31064,im so excited to see nat tonight smilingfacewithhearteyes smilingfacewithhearteyes and how happy and cheery she is amp then im even more excited for her to get on social media smilingfacewithhearteyes,joy,0.979,['BB18'],0.328,0.0,0.672,0.9133,5,0,0.0,neural,4,0,0,4,0,4,0,2,3,0,0.0,0
+245,31065,“set up as an ideal the facing of reality as honestly and as cheerfully as possible ” karl menninger,joy,0.288,['2ndHalfWealth'],0.373,0.0,0.627,0.8591,2,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+246,31066,whats the nicest way to tell someone cheerfully whistling outside my apartment door that i will end them should they continue to whistle,joy,0.16,[],0.231,0.0,0.769,0.743,1,0,0.0,neural,1,0,0,0,0,1,0,0,1,0,0.0,0
+247,31067,book 5 its so sprightly amp fun cuz hed been reinvigorated by the harry potter series im not kidding,joy,0.66,[],0.388,0.049,0.563,0.876,1,1,0.0,neural,1,0,0,1,1,1,1,0,1,1,0.0,0
+248,31068,hows it possible to go from cheery earlier to the worst mood possible now facewithrollingeyes,joy,0.02,[],0.174,0.198,0.628,-0.128,1,1,0.0,neural,1,0,0,1,0,1,0,0,0,0,0.0,0
+249,31069,3 styles to love now at zales three sparkling styles to love stop by and shop in store today,joy,0.532,[],0.381,0.079,0.54,0.8555,3,0,-0.15,neural,1,0,0,2,0,3,0,0,0,0,0.0,0
+250,31070,kinda wished i watched mischievous kiss before playful kiss,joy,0.404,[],0.586,0.0,0.414,0.8176,3,1,2.0,neural,2,0,0,3,1,3,0,3,1,1,0.0,2
+251,31071,accept challenges in life so that you may feel the exhilaration of victory,joy,0.5,[],0.262,0.0,0.738,0.4404,3,0,0.929,neural,1,0,0,2,0,2,0,1,1,0,0.0,0
+252,31072,why sick i am rejoicing that it is only half,joy,0.438,[],0.252,0.219,0.53,0.128,1,1,-0.353,neural,1,1,0,1,1,1,1,1,0,0,0.0,0
+253,31073,snow pig thats hilarious lmaooo,joy,0.692,[],0.403,0.0,0.597,0.4019,1,0,0.0,neural,0,1,0,1,1,1,0,1,0,0,0.0,0
+254,31074,“set a goal to achieve something that is so big so exhilarating that it excites you and scares you at the same time ” ― bob proctor,joy,0.458,[],0.208,0.072,0.72,0.6727,2,0,1.753,neural,1,0,0,1,0,2,0,0,2,0,0.0,0
+255,31075,this red sox team is the equivalent of tiger woods in his heyday no mercy,joy,0.417,[],0.0,0.131,0.869,-0.2755,1,0,2.0,neural,1,0,0,1,0,2,0,0,2,0,0.0,2
+256,31076,wanna always be the reason behind her happiness and ill always keep her smiling no matter what happens Aquarius purpleheart,joy,0.769,[],0.249,0.146,0.604,0.5756,3,1,0.0,neural,1,1,1,2,1,3,1,0,0,1,0.0,0
+257,31077,did u laugh today laugh hard i hope so we need laughter now,joy,0.595,['love'],0.591,0.061,0.348,0.9211,1,5,-0.168,neural,2,0,0,4,0,4,0,4,1,0,0.964512419824401,0
+258,31078,did u laugh today laugh hard i hope so we need laughter now,joy,0.56,"['smile', 'love']",0.591,0.061,0.348,0.9211,1,5,-0.168,neural,2,0,0,4,0,4,0,4,1,0,1.509659826559158,0
+259,31079,i admittedly went into this series thinking wed see the jedi in their heyday not as dysfunctional un peacekeepers in space,joy,0.25,[],0.115,0.0,0.885,0.3818,2,0,0.0,neural,1,0,0,1,0,1,0,0,2,0,0.0,0
+260,31080,me taking a picture by myself awkward smileme on picture day awkward smileconclusion stop smiling ,joy,0.404,"['smile', 'ornot']",0.155,0.278,0.567,-0.1027,1,2,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.545147406734757,0
+261,31081,wishing the ipswich tigers good luck in their games throughout homecoming week we are cheering you on here at the city office go tigers,joy,0.763,[],0.357,0.0,0.643,0.8779,3,0,0.0,neural,2,0,0,3,0,3,0,2,1,0,0.0,0
+262,31082,my ukulele bag has fallen apart  welll at least my life hasnt yet,joy,0.304,"['Joys\\n\\n#quote', 'problemsolving', 'behappy']",0.0,0.161,0.839,-0.3612,0,1,-0.424,neural,0,0,0,0,0,0,0,0,0,0,1.5492446237387,0
+263,31083,it is so exhilarating taking on the challenge of demonstrating  explaining why s is so endearing amp wonderful,joy,0.654,"[""JamesJoyce's"", 'Ulysses']",0.369,0.0,0.631,0.8296,3,1,5.559,neural,0,0,1,1,1,1,0,1,1,1,0.0,4
+264,31084,yesterday on 21 sept 2016 i installed a new stratagem including audacity by rejoicing at harbour tower i will tenaciously follow up up,joy,0.396,[],0.147,0.0,0.853,0.5859,3,1,-0.132,neural,1,0,0,1,1,3,0,1,0,0,0.0,0
+265,31085,its 5679787 cannot dm you as we dont follow each other not such a,joy,0.164,"['delight', 'party', 'fail', 'letdown']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.972574528414458,0
+266,31086,its 5679787 cannot dm you as we dont follow each other not such a,joy,0.076,"['party', 'fail', 'letdown']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.972574528414458,0
+267,31087,be joyful in hope patient in affliction faithful in prayer romans 12 12,joy,0.396,[],0.492,0.0,0.508,0.8658,4,1,-0.223,neural,2,1,1,2,1,4,1,1,3,0,0.0,0
+268,31088,there is some hilarity in someone who is literally openly anti science calling others anti science,joy,0.385,[],0.0,0.247,0.753,-0.5574,2,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+269,31089,smoking weed while you watch 12 pull somebody else over is the most joyous thing ever,joy,0.625,[],0.227,0.0,0.773,0.659,1,1,0.0,neural,1,0,1,1,0,2,0,0,0,0,0.0,0
+270,31090,and girl i love your perfume theres something bout you headphone,joy,0.729,[],0.296,0.0,0.704,0.6369,1,0,-0.684,neural,0,0,0,1,1,1,0,0,0,1,0.0,0
+271,31091,and girl i love your perfume theres something bout you headphone,joy,0.646,['breezy'],0.296,0.0,0.704,0.6369,1,0,-0.684,neural,0,0,0,1,1,1,0,0,0,1,0.0,0
+272,31092,watching in shes one of favorite actresses last night i was watching her i just want to meet her,joy,0.78,"['Spy', 'theboss', 'hilarious']",0.202,0.0,0.798,0.5106,3,0,-0.205,neural,0,0,0,1,0,1,0,0,1,0,0.381180105271662,0
+273,31093,lol thats hilarious,joy,0.72,[],0.846,0.0,0.154,0.6705,1,0,3.393,neural,0,0,0,1,0,1,0,1,0,0,0.0,2
+274,31094,ninaturner mine too with what is happening in country i needed this moment of levity bernblade lisavikingstad,joy,0.271,[],0.0,0.0,1.0,0.0,1,1,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+275,31095,manchester united v manchester city days,joy,0.775,"['happy', 'EFL']",0.359,0.0,0.641,0.4215,0,0,-0.142,neural,0,0,0,0,0,1,0,0,1,0,2.1619698826427,0
+276,31096, want to have a spar  the prince smiles and reaches for his hilt and his icy eyes keep on aaron a playful look in his eyes,joy,0.442,[],0.279,0.0,0.721,0.7579,2,1,-0.451,neural,0,0,0,1,0,2,0,1,1,1,0.0,0
+277,31097,accept the so that you can feel the exhilaration of victory,joy,0.396,['challenges'],0.206,0.0,0.794,0.3818,3,0,0.929,neural,1,0,0,2,0,2,0,1,1,0,0.0,0
+278,31098,yes mourinho you really should stop speaking about refs and try cheering up a bit,joy,0.3,[],0.293,0.121,0.586,0.5456,1,1,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+279,31099,thenicebot wsjnordics you make the world a more joyful place,joy,0.68,"['TheNiceBot', 'MPN', 'DemiLovato']",0.318,0.0,0.682,0.6361,1,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+280,31100,im elated thank you for your help can i apply to be verified,joy,0.72,[],0.485,0.0,0.515,0.8555,3,0,0.0,neural,0,0,0,1,0,2,0,0,1,0,0.0,0
+281,31101,the world needs more laughter more love and a little more of you r m drake,joy,0.521,[],0.371,0.0,0.629,0.85,1,2,0.0,neural,1,0,0,2,0,2,0,1,0,0,0.0,0
+282,31102,whats the most common method used to make bc,joy,0.346,"['bcwinechat', 'sparkling', 'wine?']",0.0,0.0,1.0,0.0,0,0,-1.004,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+283,31103,whats the most common method used to make bc,joy,0.189,"['bcwinechat', 'wine?']",0.0,0.0,1.0,0.0,0,0,-1.004,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+284,31104,this is hilarious,joy,0.82,[],0.574,0.0,0.426,0.4019,1,0,3.393,neural,0,0,0,1,0,1,0,1,0,0,0.0,2
+285,31105,i have tried a cheerful upbeat piece in walking through history usually in artydocu types cannot find a trace of it,joy,0.365,[],0.149,0.0,0.851,0.5423,2,0,0.0,neural,0,0,0,1,0,1,0,1,0,0,0.0,0
+286,31106,not by wrath does one kill but by laughter friedrich nietzsche,joy,0.32,['friedrichnietzsche'],0.266,0.176,0.557,0.3506,0,3,0.0,neural,1,0,2,1,2,1,1,1,0,1,0.0,0
+287,31107,an open mind a kind amp,joy,0.833,"['happiness', 'recipe:', 'laughter,', 'heart', 'optimism']",0.405,0.0,0.595,0.5267,2,1,0.0,neural,0,0,0,1,0,1,0,0,1,0,3.7587852845314833,0
+288,31108,an open mind a kind amp,joy,0.667,"['happiness', 'recipe:', 'laughter,', 'heart']",0.405,0.0,0.595,0.5267,2,1,0.0,neural,0,0,0,1,0,1,0,0,1,0,2.1610463108541733,0
+289,31109,buhmaid happy birthday sweety sweet 21 hun hope u have a wonderful day and a wondrful joyful year better than the last one luv u heartsuit,joy,0.729,[],0.501,0.0,0.499,0.9643,6,0,0.0,neural,4,0,0,6,0,6,0,4,5,0,0.0,0
+290,31110,im black 43 i read books pu my kids from school my prayer is that u wl lv a long fulfilling joyous peaceful god pleasing life,joy,0.56,[],0.357,0.058,0.585,0.8934,3,2,0.0,neural,3,0,1,3,0,3,0,1,3,0,0.0,0
+291,31111,a doesnt always mean a person is sometimes it simply means they are enough to face their own,joy,0.227,"['smile', 'happy', 'strong', 'problems']",0.0,0.0,1.0,0.0,0,1,0.0,neural,0,0,0,0,0,0,0,0,0,0,4.038568176356888,0
+292,31112,needed levity hubs  i talking of kyles new solo album my 7 yo says   she loves ur news show lolz,joy,0.604,['9News'],0.291,0.0,0.709,0.8126,1,0,0.689,neural,0,0,0,0,0,0,0,0,1,0,0.0,0
+293,31113,rejoicing over someones sadness is bad but when is cencerned then definitely some people deserve it,joy,0.229,['Karma'],0.269,0.19,0.542,0.4118,3,2,0.0,neural,2,1,1,1,2,2,2,1,2,2,0.0,0
+294,31114,manuellynch99,joy,0.604,"['SIGUEMEYTESIGO', 'happy', 'snapchat', 'venezuela']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,3.4530660970936395,0
+295,31115,ditto such an amazing atmosphere,joy,0.792,"['PhilippPlein', 'cheerleaders', 'stunt', 'LondonEvents']",0.487,0.0,0.513,0.5859,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+296,31116,ditto such an amazing atmosphere,joy,0.74,"['PhilippPlein', 'cheerleaders', 'stunt', 'LondonEvents', 'cheer']",0.487,0.0,0.513,0.5859,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.49666637295709,0
+297,31117,a delight to be at the lane tonight and witness the debuts of some young talent that could be the backbone of our club,joy,0.667,['COYS'],0.233,0.0,0.767,0.7717,3,0,0.0,neural,1,0,0,1,0,3,0,0,2,1,0.0,0
+298,31118,faver its reaper before he became reaper you can find their stories on the wiki and thru the comics and animated shorts,joy,0.375,[],0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+299,31119,remember when joe and quinn had a thing on glee,joy,0.312,[],0.318,0.0,0.682,0.6369,1,0,4.111,neural,0,0,0,1,0,1,0,0,0,0,0.0,3
+300,31120,im still laughing bitch took my pillow line,joy,0.729,"['glee', 'kurt']",0.246,0.292,0.462,-0.1531,0,1,0.0,neural,0,1,1,1,1,2,1,0,0,1,0.185969244761638,0
+301,31121,im still laughing bitch took my pillow line,joy,0.613,['kurt'],0.246,0.292,0.462,-0.1531,0,1,0.0,neural,0,1,1,1,1,2,1,0,0,1,0.0,0
+302,31122,nothing lovelier than your great mate sending the most joyful and sweet pic thankyou xxxx,joy,0.86,['amy'],0.491,0.0,0.509,0.911,3,0,0.0,neural,1,0,0,2,0,3,0,1,3,0,0.0,0
+303,31123,we love you we are looking forward to so much more on the abc,joy,0.917,"['hilarious', 'kudos', 'pilot', 'speechless']",0.244,0.0,0.756,0.6369,1,0,0.0,neural,0,0,0,1,0,2,0,0,0,0,1.575847502053822,0
+304,31124,eve izzy and paige cheerfully sing songs together,joy,0.673,[],0.307,0.0,0.693,0.4767,0,0,0.0,neural,1,0,0,1,0,1,1,0,1,0,0.0,0
+305,31125,man great job i am more than happy over your success in a short time mom amp dad are smiling from heaven love you bro,joy,0.938,[],0.54,0.0,0.46,0.9728,6,0,0.0,neural,3,0,0,4,0,5,0,0,1,0,0.0,0
+306,31126,the jovial laughter that trump and his lackeys showed when don king used the n word was a truly bizarre sight,joy,0.396,[],0.318,0.081,0.601,0.7717,3,3,-0.145,neural,1,0,0,2,1,5,0,3,2,0,0.0,0
+307,31127,ive got 8 coming back this week its so joyous isnt it haha,joy,0.646,[],0.28,0.132,0.588,0.5805,2,0,3.866,neural,1,0,0,1,0,1,0,0,0,0,0.0,3
+308,31128,i just spent 40 on big little sis tomorrow and i am beyond happy about it,joy,0.897,"['SAW', 'mirth', 'mums']",0.198,0.0,0.802,0.5719,2,1,0.0,neural,2,0,0,1,1,1,0,0,1,0,0.0,0
+309,31129,i just spent 40 on big little sis tomorrow and i am beyond happy about it,joy,0.854,"['SAW', 'mums']",0.198,0.0,0.802,0.5719,2,1,0.0,neural,2,0,0,1,1,1,0,0,1,0,0.0,0
+310,31130,shell be bribing her parents with hearty laughter and giggles,joy,0.714,['Loveet'],0.385,0.0,0.615,0.6124,0,1,1.212,neural,1,0,1,1,1,1,1,2,0,1,0.0,0
+311,31131,styles youre the smile to my face and the beat to my heart thanks for being kind as much as you can be mind following me beatingheart 96 127,joy,0.792,[],0.342,0.0,0.658,0.9186,3,1,-0.461,neural,0,0,0,2,0,2,0,1,2,0,0.0,0
+312,31132,the wasteful day is a without,joy,0.521,"['most', 'day', 'laughter']",0.0,0.0,1.0,0.0,0,1,-0.855,neural,0,1,0,0,1,0,1,0,0,1,1.905773381965302,0
+313,31133,the wasteful day is a without,joy,0.12,"['most', 'day']",0.0,0.0,1.0,0.0,0,1,-0.855,neural,0,1,0,0,1,0,1,0,0,1,1.679830771341119,0
+314,31134,good morning lets start with a smile lets enjoy life in a cheerful way dont worry be happy,joy,0.893,[],0.492,0.102,0.407,0.8887,5,1,4.196,neural,5,0,1,5,1,5,1,3,4,0,0.0,3
+315,31135,skiving for a me day and winkingface purpleheart crown,joy,0.923,"['Freshers2016', 'nails', 'sunbeds', 'gym', 'priorities', 'student', 'studentnurse', 'pampered', 'happy']",0.0,0.0,1.0,0.0,0,0,-0.277,neural,0,0,0,0,0,0,0,0,0,0,4.645800110009336,0
+316,31136,skiving for a me day and winkingface purpleheart crown,joy,0.646,"['Freshers2016', 'nails', 'sunbeds', 'gym', 'priorities', 'student', 'studentnurse', 'pampered']",0.0,0.0,1.0,0.0,0,0,-0.277,neural,0,0,0,0,0,0,0,0,0,0,2.483830227366637,0
+317,31137,half past midnight loud banging on our front door been told about new rape cases in edinburgh today,joy,0.08,['nosleep'],0.0,0.217,0.783,-0.6908,0,0,-0.15,neural,0,1,1,0,1,0,1,0,0,1,0.922334188382774,0
+318,31138,half past midnight loud banging on our front door been told about new rape cases in edinburgh today,joy,0.02,"['joyful', 'nosleep']",0.0,0.217,0.783,-0.6908,0,0,-0.15,neural,0,1,1,0,1,0,1,0,0,1,3.0891430940066242,0
+319,31139,its great to see matilda so happy in her new chair it will provide her with access to lots of new experiences,joy,0.708,['smiling'],0.307,0.0,0.693,0.8702,3,0,0.811,neural,1,0,0,1,0,2,0,0,2,0,2.01800162909558,0
+320,31140,its great to see matilda so happy in her new chair it will provide her with access to lots of new experiences,joy,0.688,[],0.307,0.0,0.693,0.8702,3,0,0.811,neural,1,0,0,1,0,2,0,0,2,0,0.0,0
+321,31141,pakis are applauding sharifs speech i wonder how many really understood what he said they are very much excited and happy,joy,0.481,[],0.345,0.0,0.655,0.8583,4,0,4.196,neural,2,0,0,2,0,3,0,1,2,0,0.0,3
+322,31142,how wonderful to see a show with a token man for once was uproarious gleeful important amp uplifting go see,joy,0.66,['GlasgowGirls'],0.356,0.0,0.644,0.8555,4,1,0.0,neural,0,0,0,1,0,2,0,1,3,0,0.0,0
+323,31143,this night is sparkling dont you let it go im wonderstruck blushing all the way home ,joy,0.66,['ValerieBot'],0.128,0.0,0.872,0.296,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+324,31144,only person that could manage to get bright pink lipstick all over my brand new white dress wearyface facewithtearsofjoy,joy,0.167,[],0.139,0.0,0.861,0.4404,2,0,0.0,neural,0,0,0,0,0,1,0,0,1,0,0.0,0
+325,31145,life iznt about pleasing each others confusedface,joy,0.154,"['hell', 'with']",0.362,0.0,0.638,0.5267,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,1.0894138443435901,0
+326,31146,i gave up on the u20 rugby bet on the roosters,joy,0.385,"['cheering', 'nrl']",0.0,0.0,1.0,0.0,0,0,-0.238,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+327,31147,i gave up on the u20 rugby bet on the roosters,joy,0.312,['nrl'],0.0,0.0,1.0,0.0,0,0,-0.238,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+328,31148,electro set was pure enjoyment amp exhilarating captivating amp poetic raw exciting,joy,0.821,[],0.514,0.0,0.486,0.8591,6,0,3.926,neural,1,0,0,1,0,2,0,1,0,0,0.0,3
+329,31149,sharpened a pencil today havent sharpened once since 1999 pencil,joy,0.5,['exhilarating'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+330,31150,sharpened a pencil today havent sharpened once since 1999 pencil,joy,0.458,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+331,31151,the possibilities r endless becca when u unplug from the matrix  stay salty and …,joy,0.604,"['happy', 'surfing!', 'sunset', 'aloha']",0.0,0.0,1.0,0.0,0,1,0.0,neural,0,0,1,1,1,1,1,0,1,1,2.1619698826427,0
+332,31152,you dont have to feel grateful to be grateful for it is written  all things work together for good for those who love god,joy,0.623,['cheerful'],0.444,0.0,0.556,0.9349,4,0,1.0,neural,2,0,1,3,0,5,0,1,2,0,2.06292331648709,1
+333,31153,you dont have to feel grateful to be grateful for it is written  all things work together for good for those who love god,joy,0.365,[],0.444,0.0,0.556,0.9349,4,0,1.0,neural,2,0,1,3,0,5,0,1,2,0,0.0,1
+334,31154,all i want to do is to be successful be cheerful and to be happy with,joy,0.491,[],0.506,0.0,0.494,0.9062,4,0,0.0,neural,2,0,0,3,0,3,0,1,2,0,0.0,0
+335,31155,loving so far smilingfacewithopenhands smilingfacewithopenhands smilingfacewithopenhands tv,joy,0.854,"['Pitch', 'chills', 'smiling']",0.394,0.0,0.606,0.5994,0,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,2.948303987127531,0
+336,31156,loving so far smilingfacewithopenhands smilingfacewithopenhands smilingfacewithopenhands tv,joy,0.75,"['Pitch', 'chills']",0.394,0.0,0.606,0.5994,0,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.930302358031951,0
+337,31157,how sad is it that im rejoicing over a 72 skull,joy,0.34,['collegekills'],0.239,0.195,0.566,0.1779,1,1,0.0,neural,1,0,0,1,0,1,0,1,0,0,0.0,0
+338,31158,banger sit in 2013 reason why we great doings him alias for why we rejoice in he kzfqr,joy,0.438,[],0.304,0.0,0.696,0.7906,3,0,0.0,neural,2,0,1,1,1,2,0,2,1,1,0.0,0
+339,31159,ami that guy in the back of your picture is hilarious,joy,0.625,[],0.213,0.0,0.787,0.4019,2,0,3.393,neural,0,0,0,1,0,1,0,1,0,0,0.0,2
+340,31160,literally feels sg to be happy with sam smilingfacewithhearteyes,joy,0.896,[],0.316,0.0,0.684,0.5719,1,0,0.0,neural,1,0,0,1,0,1,0,0,1,0,0.0,0
+341,31161,jasperino buoyant session six,joy,0.22,[],0.388,0.0,0.612,0.2263,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+342,31162,class is canceled due to a funeral not sure if its appropriate to be happy or sad,joy,0.5,[],0.153,0.312,0.536,-0.4333,3,1,-4.734999999999999,neural,1,0,0,1,0,1,1,0,1,0,0.0,-2
+343,31163,class is canceled due to a funeral not sure if its appropriate to be happy or sad,joy,0.417,['happy'],0.153,0.312,0.536,-0.4333,3,1,-4.734999999999999,neural,1,0,0,1,0,1,1,0,1,0,2.1619698826427,-2
+344,31164,cant stop smiling grinningsquintingface grinningsquintingface grinningsquintingface,joy,0.896,[],0.226,0.296,0.478,-0.1511,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+345,31165,the amount of laughter ready to leave my body if united lose is unreal,joy,0.5,[],0.397,0.182,0.421,0.6808,1,2,0.0,neural,2,1,1,1,2,2,2,3,1,1,0.0,0
+346,31166,you could leap to your feet dramatically plant one foot on the seat of your chair and let out that jaunty tune,joy,0.583,[],0.095,0.0,0.905,0.296,1,0,1.333,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+347,31167,things that grind my gears people drawing gideon gleeful skinny,joy,0.292,[],0.302,0.0,0.698,0.5994,1,1,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+348,31168,the book that can start improving your relationship tonight taking you on a journey of and htt…,joy,0.509,"['fun,', 'laughter,', 'romance', 'metaphysics.']",0.149,0.0,0.851,0.4215,1,0,0.0,neural,2,0,1,1,0,2,0,0,0,0,1.20320293610133,0
+349,31169,nice idea collect all relevant socialmedia in one but dont be automatic pls leftarrow merci balloon,joy,0.462,"['worldsapp', 'chirp', 'appsworld', 'socialmedia']",0.11,0.077,0.812,0.1449,2,0,0.0,neural,0,0,0,0,0,1,0,0,2,0,0.810361739997142,0
+350,31170,im so so so excited for i cant wait i wish i could get a signed copy im so happy for you sugg,joy,0.9,['UsernameRegenerated'],0.277,0.073,0.649,0.8062,3,0,0.0,neural,3,0,0,2,2,2,0,1,2,0,0.0,0
+351,31171,its not that the man did not know how to juggle he just didnt have the balls to do it,joy,0.76,"['pun', 'lol', 'hilarious', 'punny']",0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.4302442532548858,0
+352,31172,its not that the man did not know how to juggle he just didnt have the balls to do it,joy,0.688,"['pun', 'punny', 'lol', 'hilarious']",0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.4302442532548858,0
+353,31173,its not that the man did not know how to juggle he just didnt have the balls to do it,joy,0.68,"['pun', 'punny', 'hilarious', 'lol']",0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.4302442532548858,0
+354,31174,niggas never changed even as a kid and a 29 year old in his interviews seems jovial and happy after death of his sister he did it,joy,0.4,[],0.184,0.175,0.641,0.0772,4,1,0.0,neural,2,1,1,2,1,2,1,1,1,1,0.0,0
+355,31175,gets crushes on fictional and animated characters instead if real people,joy,0.3,[],0.0,0.225,0.775,-0.4404,2,1,0.0,neural,0,0,0,1,0,2,0,0,1,0,0.0,0
+356,31176,24 i brought sparkling cider holds it up i know its not much,joy,0.312,[],0.155,0.0,0.845,0.296,1,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+357,31177,best quote from a 7 in german almost,joy,0.333,['happy'],0.375,0.0,0.625,0.6369,1,0,-0.108,neural,1,0,0,0,1,1,0,1,0,0,2.1619698826427,0
+358,31178,best quote from a 7 in german almost,joy,0.26,[],0.375,0.0,0.625,0.6369,1,0,-0.108,neural,1,0,0,0,1,1,0,1,0,0,0.0,0
+359,31179,love your new show,joy,0.788,['hilarious'],0.583,0.0,0.417,0.6369,1,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.381180105271662,0
+360,31180,i totally understood his point but we need a better messenger and the laughter just pissed me off enragedface,joy,0.08,[],0.272,0.194,0.534,0.3291,3,2,0.0,neural,1,0,0,1,0,1,0,1,1,0,0.0,0
+361,31181,ridesagain evil rich white men and their fucking cronies in intelligencegovacademia using blithe blacks as fodder,joy,0.08,[],0.25,0.19,0.56,0.1027,3,1,1.03,neural,0,1,1,0,1,0,1,0,0,1,0.0,0
+362,31182,took them an awfy long time to spot their goal was disallowed smilingface,joy,0.292,['pleasing'],0.0,0.0,1.0,0.0,0,2,0.0,neural,2,1,1,0,1,0,1,0,0,1,0.0,0
+363,31183,took them an awfy long time to spot their goal was disallowed smilingface,joy,0.188,[],0.0,0.0,1.0,0.0,0,2,0.0,neural,2,1,1,0,1,0,1,0,0,1,0.0,0
+364,31184,proverbs 27 9 ointment and perfume rejoice the heart so doth the sweetness of a mans friend by hearty counsel,joy,0.583,[],0.462,0.0,0.538,0.9295,4,0,0.0,neural,1,0,0,2,0,4,0,1,3,0,0.0,0
+365,31185,we have been a better second half team this season so theres that,joy,0.458,['optimism'],0.195,0.0,0.805,0.4404,1,0,0.0,neural,0,0,0,0,0,0,0,0,1,0,1.59773897367731,0
+366,31186,we have been a better second half team this season so theres that,joy,0.2,[],0.195,0.0,0.805,0.4404,1,0,0.0,neural,0,0,0,0,0,0,0,0,1,0,0.0,0
+367,31187,function in regard to camshaft exhilaration companies cqhshjsi,joy,0.34,[],0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,1,0,1,0,1,0,0,0.0,0
+368,31188,close to the end of a revision taking this story i love in a new direction has been exhilarating for me,joy,0.6,"['endlesspossibilities', 'amwriting']",0.266,0.0,0.734,0.7845,2,1,-0.176,neural,0,0,0,1,0,1,0,0,0,0,0.686744532674128,0
+369,31189,being in the countryside all day was so pleasing,joy,0.667,[],0.353,0.0,0.647,0.656,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+370,31190,i want to achieve to your level of optimism,joy,0.28,[],0.407,0.0,0.593,0.5859,3,0,4.218,neural,1,0,0,2,0,3,0,1,3,0,0.0,2
+371,31191,come and join in with tomorrow afternoon from 3pm,joy,0.479,"['cakeclubhour', 'bizhour', 'chirp']",0.216,0.0,0.784,0.296,0,0,-0.176,neural,1,0,0,0,0,1,0,0,0,0,0.0,0
+372,31192,come and join in with tomorrow afternoon from 3pm,joy,0.439,"['cakeclubhour', 'bizhour']",0.216,0.0,0.784,0.296,0,0,-0.176,neural,1,0,0,0,0,1,0,0,0,0,0.0,0
+373,31193,im always smiling so thats why im always happy facewithtearsofjoy,joy,0.731,[],0.456,0.0,0.544,0.7717,2,0,0.0,neural,1,0,0,2,0,2,0,0,1,0,0.0,0
+374,31194,thank you oh so much there are many challenges but much rejoicing sparkles,joy,0.842,[],0.551,0.0,0.449,0.8765,2,0,3.822,neural,1,0,0,1,0,1,0,1,0,0,0.0,3
+375,31195,something about opening mail is just very pleasing,joy,0.646,[],0.345,0.0,0.655,0.5709,2,0,0.0,neural,1,0,0,0,0,0,0,0,0,0,0.0,0
+376,31196,happy everyone hoping that the world becomes a better place less division more happiness keep smiling grinningfacewithsmilingeyes grinningfacewithsmilingeyes redheart,joy,0.78,['internationaldayofpeace'],0.538,0.0,0.462,0.9459,4,2,0.0,neural,2,0,0,3,0,3,0,0,1,0,0.0,0
+377,31197,youve got quite the cheery young souls fan,joy,0.729,[],0.507,0.0,0.493,0.7334,1,0,3.66,neural,1,0,0,1,0,1,0,0,0,0,0.0,3
+378,31198,i see things in the clouds that others cant see so i can,joy,0.625,['elate'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0828131327198647,0
+379,31199,i see things in the clouds that others cant see so i can,joy,0.32,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+380,31200,thank you for your support but it was not an attempt at levity,joy,0.182,[],0.247,0.0,0.753,0.3818,3,0,0.0,neural,1,0,0,0,0,0,0,0,0,0,0.0,0
+381,31201,ahh when my voice gets better ive been asked to play d id be more than to do that,joy,0.688,['happy'],0.238,0.0,0.762,0.6486,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,2.1619698826427,0
+382,31202,styles sparklingheart heart so pure and smileso bright i love youmore than the numberof stars at night kindly follow me pleaseharry —90 127,joy,0.75,[],0.433,0.0,0.567,0.9382,6,0,-0.461,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+383,31203,you are the best whiney jerkass heel since s heyday in wcw,joy,0.431,['LuchaUnderground'],0.255,0.139,0.606,0.4404,1,0,0.0,neural,1,0,0,1,1,1,0,0,1,0,0.0,0
+384,31204,i took a yr off school and im proud to say i got accepted again yo girl is going to finish,joy,0.833,[],0.215,0.0,0.785,0.6369,1,0,-0.223,neural,1,0,0,1,0,1,0,0,2,0,0.0,0
+385,31205,i took a yr off school and im proud to say i got accepted again yo girl is going to finish,joy,0.82,['happy'],0.215,0.0,0.785,0.6369,1,0,-0.223,neural,1,0,0,1,0,1,0,0,2,0,2.1619698826427,0
+386,31206,its better to be wetter than it is to be dry thanks for the tip val first hearty guffaw of the week,joy,0.6,['GBBO'],0.225,0.0,0.775,0.7003,1,0,-0.189,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+387,31207,more of a hearty italian man myself,joy,0.56,[],0.0,0.0,1.0,0.0,0,0,-0.204,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+388,31208,hearing your parent say theyre proud of you elicits infinite waves of unconceivable glee,joy,0.82,[],0.378,0.0,0.622,0.8074,2,0,4.111,neural,1,0,1,2,1,3,0,0,1,0,0.0,3
+389,31209,why bother tweeting poor mens what good does it do if im unable to be cheery i go quiet missed you btw,joy,0.212,[],0.208,0.247,0.545,-0.0516,2,3,0.832,neural,2,0,0,2,2,3,2,1,1,0,0.0,0
+390,31210,the lord thy god in the midst of thee is mighty he will save he will rejoice over thee with joy zephaniah 3 17 kjv,joy,0.544,[],0.364,0.0,0.636,0.9001,5,0,0.0,neural,2,1,2,5,1,6,0,1,5,1,0.0,0
+391,31211,well see once youre a few drinks in  a playful wink is passed to him and as they pull up into the small lot of,joy,0.438,[],0.179,0.0,0.821,0.6124,3,0,0.0,neural,0,0,0,1,1,2,0,1,1,1,0.0,0
+392,31212,omg nol i love u so so much i love ur cheery face and hugs faceblowingakiss faceblowingakiss faceblowingakiss,joy,0.98,[],0.525,0.0,0.475,0.9474,3,0,0.0,neural,1,0,0,3,0,3,0,0,0,0,0.0,0
+393,31213,aww thank you im definitely feeling much better today and your messages cheer me up too smilingface,joy,0.688,[],0.518,0.0,0.482,0.8979,4,1,0.0,neural,2,1,1,2,1,2,1,2,2,1,0.0,0
+394,31214,hahahahahaha oh gosh you are hilarious a black man trying to keep racism alive get out of here man,joy,0.402,[],0.209,0.161,0.63,0.0516,1,3,-0.225,neural,1,0,0,2,0,2,0,1,1,0,0.0,0
+395,31215,happiness is a choice life isnt about pleasing everybody,joy,0.46,['ALDUB62ndWeeksary'],0.269,0.208,0.523,0.2081,2,0,0.0,neural,1,0,0,1,0,2,0,0,0,0,0.0,0
+396,31216,look out for them cars coming from the wesszzz,joy,0.3,['chirp'],0.0,0.0,1.0,0.0,0,0,0.0,neural,1,0,0,0,0,0,0,0,0,0,0.0,0
+397,31217,watching driven by food and going to devon ave to eat nihari makes me gleeful af,joy,0.78,[],0.206,0.0,0.794,0.5994,2,0,-1.446,neural,0,0,0,1,0,2,0,0,1,0,0.0,0
+398,31218,collision balancescale yeah doubleexclamationmark paul doubleexclamationmark balancescale collision,joy,0.92,"['joyous', 'glorious', 'BB18']",0.18,0.41,0.41,-0.4215,0,0,-3.931,neural,0,0,0,0,2,0,0,0,0,2,2.16828383214492,-2
+399,31219,forgot to bring extra boxers to the y so im currently commando at starbucks this is exhilarating i feel more liberated than angelina jolie,joy,0.542,[],0.105,0.0,0.895,0.4019,1,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+400,31220,when both party accept one another and rejoice together after nov26 dove,joy,0.417,"['PeaceIsPossible', 'OndoGuber,Nov26.']",0.477,0.0,0.523,0.802,2,0,0.0,neural,2,0,0,2,0,2,0,1,2,0,0.0,0
+401,31221,brennan cook and breezy should get back together smilingfacewithhearteyes smilingfacewithhearteyes smilingfacewithhearteyes,joy,0.54,[],0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+402,31222,on my way rejoicing to the pulpit  park city baptist church surrey bc for midweek service,joy,0.654,[],0.202,0.0,0.798,0.5859,1,0,-0.11,neural,2,0,0,2,0,3,0,1,1,0,0.0,0
+403,31223,good master vernon welcome nephews from bellario there is my lord that thou interruptst our merriment,joy,0.312,[],0.417,0.0,0.583,0.8519,4,0,0.0,neural,1,1,0,2,1,4,0,2,2,0,0.0,0
+404,31224,luke 1 14he will be a joy and delight to you and many will rejoice because of his birth,joy,0.625,[],0.398,0.0,0.602,0.891,5,0,0.0,neural,3,0,1,4,0,4,0,1,2,0,0.0,0
+405,31225,“the lord thy god in the midst of thee is mighty he will save he will rejoice over thee with joy ”zephaniah 3 17,joy,0.462,[],0.375,0.0,0.625,0.9001,5,0,0.0,neural,2,1,2,5,1,6,0,1,5,1,0.0,0
+406,31226,loving abc so far just hilarious and is wonderful clappinghandslightskintone clappinghandslightskintone,joy,0.75,"['hilarious', 'Bravo']",0.569,0.0,0.431,0.8901,3,0,0.0,neural,0,0,0,3,0,3,0,2,2,0,0.381180105271662,0
+407,31227,i beg you never stop smiling you deserve to be happy and to know all the beautiful things that life can offers,joy,0.54,[],0.317,0.083,0.601,0.791,4,1,0.0,neural,2,0,0,3,1,4,1,0,2,1,0.0,0
+408,31228,charlotte just watched you on the great wall grinningsquintingface,joy,0.8,['hilarious'],0.339,0.0,0.661,0.6249,2,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.381180105271662,0
+409,31229,when yall talkin about you know who i dont know who yall talkin bout im on the new shit chuckin up ma deuces fire fire,joy,0.25,"['kanye', 'breezy']",0.0,0.276,0.724,-0.8126,0,0,-2.0,neural,0,1,2,0,2,0,0,0,0,2,0.0,-2
+410,31230,when yall talkin about you know who i dont know who yall talkin bout im on the new shit chuckin up ma deuces fire fire,joy,0.231,['kanye'],0.0,0.276,0.724,-0.8126,0,0,-2.0,neural,0,1,2,0,2,0,0,0,0,2,0.0,-2
+411,31231,great to meet tonight what a lively and enthusiastic bunch look forward to working with you again,joy,0.82,[],0.421,0.0,0.579,0.8807,3,0,-0.286,neural,0,0,0,0,0,2,0,0,0,0,0.0,0
+412,31232,the best part of this day jesus is to snuggle up in your embrace to rest in your arms and know you love me blueheart redheart,joy,0.76,['sweetEmbrace'],0.318,0.0,0.682,0.8934,3,0,0.0,neural,1,0,0,2,0,3,0,1,1,0,0.0,0
+413,31233,the best part of this day jesus is to snuggle up in your embrace to rest in your arms and know you love me blueheart redheart,joy,0.75,"['sweetEmbrace', 'delight']",0.318,0.0,0.682,0.8934,3,0,0.0,neural,1,0,0,2,0,3,0,1,1,0,0.0,0
+414,31234,just my attempt at levity winkingface,joy,0.479,[],0.0,0.0,1.0,0.0,2,0,0.0,neural,1,0,0,0,0,0,0,0,0,0,0.0,0
+415,31235,forgot to thank jusdee and for sharing s day making video,joy,0.6,['happy'],0.371,0.0,0.629,0.6486,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,2.1619698826427,0
+416,31236,lucina thats fantastic when you feel cheery we all feel cheery,joy,0.875,[],0.574,0.0,0.426,0.8957,3,0,3.99,neural,2,0,0,2,0,2,0,0,0,0,0.0,3
+417,31237,may the optimism of tomorrow be your foundation for today,joy,0.54,[],0.28,0.0,0.72,0.5423,1,0,-0.15,neural,2,0,0,1,0,2,0,1,1,0,0.0,0
+418,31238,well that was exhilarating i didnt know you could have goosebumps for 2 hrs 5m straight,joy,0.596,[],0.34,0.0,0.66,0.6908,3,0,1.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,1
+419,31239,bluecouture the hilarity of you people not realising that racism is racism regardless of whether one uses choice words is hilarious,joy,0.271,[],0.213,0.146,0.641,0.2249,2,2,3.393,neural,0,0,0,2,1,3,0,1,0,1,0.0,2
+420,31240,thank you for the looking forward to your tweets as they look entertaining,joy,0.66,"['follow.', 'smile', 'socialmedia']",0.329,0.0,0.671,0.6597,2,0,3.097,neural,1,0,0,1,0,2,0,0,0,0,1.3555091467318992,2
+421,31241,thank you for the looking forward to your tweets as they look entertaining,joy,0.6,"['follow.', 'socialmedia']",0.329,0.0,0.671,0.6597,2,0,3.097,neural,1,0,0,1,0,2,0,0,0,0,0.810361739997142,2
+422,31242,roseee but that new breezy amp tiller fire fire fire fire fire,joy,0.458,[],0.0,0.689,0.311,-0.9382,0,0,-2.0,neural,0,0,5,0,0,0,0,0,0,0,0.0,-2
+423,31243,the feeling of taking someones life is either scarring or exhilarating but for people need to realize that were going to die at some,joy,0.115,[],0.105,0.182,0.713,-0.6428,1,1,0.0,neural,1,1,2,1,2,1,2,1,1,1,0.0,0
+424,31244,miss my lil caramel delight beatingheart,joy,0.44,[],0.411,0.168,0.421,0.5106,1,1,0.0,neural,1,0,0,1,0,1,0,0,0,0,0.0,0
+425,31245,some say my lover is a pale green lighthe hovers high where the moon shines bright,joy,0.42,[],0.324,0.0,0.676,0.7717,2,2,1.0,neural,1,0,0,2,0,2,0,0,2,0,0.0,1
+426,31246,all ive seen is that clip of the jail scene with the sexuality part which was hilarious,joy,0.542,[],0.144,0.0,0.856,0.4019,1,0,3.393,neural,0,0,1,1,1,1,1,1,0,0,0.0,2
+427,31247,im sure youll have a heyday if they do,joy,0.42,[],0.223,0.0,0.777,0.3182,1,0,0.0,neural,1,0,0,1,0,1,0,0,1,0,0.0,0
+428,31248,theres a certain hilarity in people angry at protests against the national anthem or the flag when these acts are covered by 1st amendment,joy,0.312,[],0.074,0.184,0.742,-0.4767,1,3,0.965,neural,0,1,0,1,1,1,0,0,0,1,0.0,0
+429,31249,thats my breezy breezy breezy thats my breezy thats my buzzinnnnnn,joy,0.469,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+430,31250,how did ryan murphy create both and so different,joy,0.302,"['AHS', 'glee']",0.208,0.0,0.792,0.2732,0,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.185969244761638,0
+431,31251,but the lady at the store said i had nice eyelashes so thats good right,joy,0.385,['optimism?'],0.38,0.0,0.62,0.8388,3,0,-0.125,neural,2,0,0,1,0,2,0,1,1,0,0.0,0
+432,31252,i love looking at my old statuses on facebook the one i have from four years ago on this day was about i had so many opinions,joy,0.6,['glee.'],0.139,0.0,0.861,0.6369,1,0,1.262,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+433,31253,hi luke hemmings bouquet cherryblossom bouquet if i had a flower for every time you made me smile id have a garden please follow me bouquet cherryblossom bouquet i love you x16 092,joy,0.8,[],0.231,0.0,0.769,0.8402,3,0,0.0,neural,1,0,0,7,0,7,0,1,5,0,0.0,0
+434,31254,eastwick just play rappers delight and have a 15 minute kip,joy,0.32,[],0.412,0.0,0.588,0.743,2,0,0.0,neural,1,0,0,1,0,1,0,0,0,0,0.0,0
+435,31255,isnt that the reason horror is popular the exhilaration that comes from discomfort is enjoyable watch the green room d,joy,0.458,[],0.202,0.23,0.567,-0.2023,4,2,0.0,neural,1,1,2,2,2,3,2,2,1,1,0.0,0
+436,31256,the true way to render ourselves is to love our work and find in it our pleasure francoise de motteville,joy,0.5,['happy'],0.386,0.0,0.614,0.8934,2,0,0.0,neural,0,0,0,2,0,3,0,0,1,0,2.1619698826427,0
+437,31257,and i have discovered you can now send animated gifs over the updated imessage,joy,0.292,[],0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+438,31258,evening all dont forget its tonight bowandarrow,joy,0.442,"['RobinHoodHour', 'bizhour', 'southyorkshire', 'MansfieldHour', 'chirp', 'sheffieldHour', 'NottsHour']",0.217,0.0,0.783,0.1695,0,1,0.0,neural,0,0,0,0,1,0,0,0,0,0,0.0,0
+439,31259,when my friends send me ballons and fireworks through text,joy,0.778,['smiling'],0.256,0.0,0.744,0.4767,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,2.01800162909558,0
+440,31260,when my friends send me ballons and fireworks through text,joy,0.771,['amazing'],0.256,0.0,0.744,0.4767,1,0,0.0,positive,0,0,0,0,0,0,0,0,0,0,1.48083999355863,0
+441,31261,every wednesday i like to visit the inmates at arkham deliver a fruit basket and a cheery bouquet of enhanced interrogation,joy,0.458,[],0.243,0.0,0.757,0.7269,3,0,0.0,neural,1,0,1,2,0,3,0,0,1,0,0.0,0
+442,31262,lordderply for it its like yugioh for animated shows,joy,0.438,[],0.238,0.0,0.762,0.3612,2,0,-0.176,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+443,31263,ok it seems there is still hope in bsnl slightlysmilingface now bb speed is ok slightlysmilingface but i wont thank and elate much lest it be gone again like before neutralface slightlysmilingface,joy,0.34,[],0.221,0.07,0.709,0.5768,4,0,0.0,neural,2,0,0,1,0,1,0,1,1,0,0.0,0
+444,31264,and the weathers so breezy man why cant life always be this easy,joy,0.5,[],0.22,0.0,0.78,0.5228,1,0,1.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,1
+445,31265,after this news im supposed to be so damn happy and rejoicing but im here like wearyface pensiveface loudlycryingface disappointedface,joy,0.077,[],0.308,0.085,0.606,0.709,3,2,0.0,neural,2,1,0,2,1,2,0,1,1,1,0.0,0
+446,31266,tatum no wonder kelvin and chris are smiling smilingfacewithhearteyes,joy,0.792,[],0.246,0.18,0.574,0.2023,2,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+447,31267,blood and mucus and he chokes and has to swallow mirth cut too short wrong answer  it takes some awkward movements,joy,0.123,[],0.122,0.333,0.544,-0.6369,1,5,0.0,neural,0,1,0,1,1,1,0,0,0,0,0.0,0
+448,31268,gifs on ios10 messaging app are hilarious,joy,0.673,[],0.31,0.0,0.69,0.4019,1,0,3.393,neural,0,0,0,1,0,1,0,1,0,0,0.0,2
+449,31269,do not your child to be educate them to be so when they grow up theyll know the of things not the price,joy,0.371,"['educate', 'rich,', 'happy.', 'value']",0.0,0.0,1.0,0.0,0,0,-0.204,neural,2,0,0,2,0,3,0,0,1,0,0.0,0
+450,31270,something about english sparkling wine would be good or farmhouse cider or italian cocktails thanks,joy,0.36,[],0.4,0.0,0.6,0.7906,2,0,3.76,neural,1,0,0,1,0,2,0,1,1,0,0.0,2
+451,31271,gud morning sir keep smiling,joy,0.84,[],0.429,0.0,0.571,0.4588,1,0,3.916,neural,0,0,0,1,0,2,0,0,1,0,0.0,2
+452,31272,thats a good question i really dont know i am slowly losing my optimism,joy,0.058,[],0.32,0.13,0.55,0.5859,2,2,4.218,neural,2,0,0,2,1,3,1,2,2,1,0.0,2
+453,31273,traditionalists say it should be bored by or bored with but not bored of a rule cheerfully ignored,joy,0.3,[],0.251,0.238,0.511,0.3228,0,0,-3.4930000000000003,neural,0,0,1,0,0,0,0,0,1,0,0.0,-2
+454,31274,she was my favourite such a joyful soul,joy,0.528,[],0.358,0.0,0.642,0.5994,1,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+455,31275,keep on …,joy,0.479,"['FF', 'smiling']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,2.01800162909558,0
+456,31276,i wanna get up and dance but everyone is in bed this sucks everyone wake up hushedface OKhand,joy,0.82,"['hyper', 'happy', 'letsdance', 'dirtydancinginthemoonlight👌']",0.0,0.183,0.817,-0.5876,1,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,2.6968574684199877,0
+457,31277,i wanna get up and dance but everyone is in bed this sucks everyone wake up hushedface OKhand,joy,0.708,"['hyper', 'letsdance', 'dirtydancinginthemoonlight👌']",0.0,0.183,0.817,-0.5876,1,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.534887585777288,0
+458,31278,pm nawaz sharif adressed in uno produced mirth among kashmires well done pak wel done nawaz we want demilterization,joy,0.417,[],0.304,0.0,0.696,0.7184,3,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+459,31279,but i got to see her last when she was lively and talkative and i was able to tell her i loved her so thats what matters,joy,0.28,[],0.309,0.0,0.691,0.8944,2,0,1.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,1
+460,31280,go one extra mile just see her smiling,joy,0.64,[],0.3,0.0,0.7,0.4588,2,0,3.916,neural,0,0,0,1,0,2,0,0,0,0,0.0,2
+461,31281,easy breezy beautiful,joy,0.604,[],0.872,0.0,0.128,0.7783,2,0,4.0489999999999995,neural,0,0,0,1,0,1,0,0,0,0,0.0,3
+462,31282,what does everyone have against sparkling water such a bomb drink when you mix it with stuff,joy,0.312,[],0.108,0.157,0.735,-0.25,1,2,0.0,neural,0,0,1,0,1,0,1,1,0,1,0.0,0
+463,31283,how cool would it be if animated the scene,joy,0.521,[],0.223,0.0,0.777,0.3182,1,0,0.0,neural,0,0,0,1,0,2,0,0,0,0,0.0,0
+464,31284,cheering for wch and men,joy,0.66,[],0.452,0.0,0.548,0.5106,0,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+465,31285,im feeling the exact same way also i read this in akons voice it provided me with a hearty chuckle,joy,0.56,[],0.189,0.0,0.811,0.4939,0,0,1.643,neural,2,1,1,2,1,2,1,2,2,1,0.0,0
+466,31286,havent yet read why dutch drivers are so happy but heres my theory because they could quit driving and still have great transpo options,joy,0.474,[],0.279,0.0,0.721,0.8598,2,1,0.0,neural,2,0,0,1,1,1,0,0,2,0,0.0,0
+467,31287,the makes me so,joy,0.685,"['chiropractor', 'happy.']",0.0,0.0,1.0,0.0,0,0,-0.253,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+468,31288,the makes me so,joy,0.271,['chiropractor'],0.0,0.0,1.0,0.0,0,0,-0.253,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+469,31289,swear i got the most playful ass bf ever facewithtearsofjoy facewithrollingeyes,joy,0.729,[],0.197,0.308,0.495,-0.1987,1,1,0.0,neural,0,0,0,1,1,2,0,1,2,1,0.0,0
+470,31290,why tf do broke boys keep tryna find gfs get ur fuckin  right b4 i smack yo bitchass she deserves 2be happy amp u dont deserve that ass,joy,0.058,[],0.191,0.082,0.728,0.5789,3,2,-4.141,neural,2,0,1,1,3,2,1,0,2,2,0.0,-4
+471,31291,you sir are hilarious,joy,0.602,[],0.474,0.0,0.526,0.4019,1,0,3.393,neural,0,0,0,1,0,2,0,1,1,0,0.0,2
+472,31292,very nice show guys now i have supported you i expect you cheering at my on oct 30th winkingface smilingfacewithsunglasses thumbsup,joy,0.708,[],0.326,0.0,0.674,0.8268,1,0,0.0,neural,1,0,0,1,0,3,0,1,2,0,0.0,0
+473,31293,to give cheerfully,joy,0.442,[],0.608,0.0,0.392,0.4767,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+474,31294,i really hate mel and sue they think theyre hilarious and theyre just awful,joy,0.14,[],0.13,0.338,0.532,-0.6478,2,2,-4.795,neural,0,2,2,1,3,1,3,1,0,3,0.0,-3
+475,31295,just died from laughter after seeing that facewithtearsofjoy loudlycryingface facewithtearsofjoy loudlycryingface,joy,0.92,[],0.203,0.228,0.57,-0.1027,1,1,0.0,neural,1,0,0,1,0,1,0,1,0,0,0.0,0
+476,31296,afternoon delight,joy,0.539,[],0.796,0.0,0.204,0.5994,1,0,4.47,neural,1,0,0,1,0,1,0,0,0,0,0.0,3
+477,31297,and 910 the character is a woman because if a man is fat hes jovial if a woman is fat shes useless and maybe evil amirite,joy,0.146,[],0.088,0.218,0.695,-0.6486,1,4,0.0,neural,0,3,1,1,4,1,3,0,0,1,0.0,0
+478,31298,ive watched  2nd seasons 1st episode twice already and here i am still joyful planning on watching it again,joy,0.76,[],0.178,0.0,0.822,0.5994,1,0,-0.286,neural,1,0,0,1,0,2,0,0,2,0,0.0,0
+479,31299,it is not joy that makes us it is that makes us david rast,joy,0.62,"['grateful', 'gratitude', 'joyful']",0.0,0.191,0.809,-0.4717,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,5.36336831812652,0
+480,31300,obfuscated magazines in passage to unite with in order to thine mirth conjunction treat quotient sufficiently leaqiwy,joy,0.28,[],0.296,0.0,0.704,0.743,3,0,0.0,neural,1,1,1,2,1,2,1,1,1,1,0.0,0
+481,31301,i was injecting a little levity the person who tweeted the cokerape tweet is obviously an idiot,joy,0.096,[],0.0,0.171,0.829,-0.5106,1,3,-3.0,neural,0,1,0,0,1,0,0,0,0,0,0.0,-3
+482,31302,idc predicts that by 2020 the term cloud will no longer be used it managers and administrators everywhere will rejoice,joy,0.286,[],0.126,0.095,0.779,0.1779,3,1,5.6579999999999995,neural,1,0,0,1,0,1,0,1,1,0,0.0,4
+483,31303,too fucking playful,joy,0.227,[],0.615,0.0,0.385,0.4927,1,1,2.896,neural,0,0,0,1,0,1,0,1,1,1,0.0,2
+484,31304,powwow more fat more buoyant day 1 water stuff,joy,0.34,[],0.235,0.0,0.765,0.352,1,1,0.0,neural,0,1,0,0,1,0,1,0,0,0,0.0,0
+485,31305,pummeling cheerfully jauntily utterly one sidedly makes us harder better faster stronger,joy,0.627,[],0.489,0.0,0.511,0.8225,2,1,2.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,2
+486,31306,fitz its being extremely playful,joy,0.52,[],0.444,0.0,0.556,0.4927,1,1,2.896,neural,0,0,0,1,0,1,0,1,1,1,0.0,2
+487,31307,the animated version was better,joy,0.088,[],0.42,0.0,0.58,0.4404,2,0,2.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,2
+488,31308,job interview tomorrow smilingfacewithsunglasses side,joy,0.64,['bright'],0.0,0.0,1.0,0.0,0,0,0.0,neural,1,0,0,0,0,1,0,0,0,0,1.99598028899222,0
+489,31309,well stock finished amp listed living room moved around new editing done amp fitted in a visit to the in laws,joy,0.771,"['productivityatitsfinest', 'happy']",0.095,0.0,0.905,0.2732,1,0,-0.331,neural,0,0,0,0,0,1,0,0,0,0,2.1619698826427,0
+490,31310,well stock finished amp listed living room moved around new editing done amp fitted in a visit to the in laws,joy,0.54,['productivityatitsfinest'],0.095,0.0,0.905,0.2732,1,0,-0.331,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+491,31311,so what you mean to tell me is that glee is getting less gleeful,joy,0.292,[],0.394,0.0,0.606,0.8319,2,2,3.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,3
+492,31312,she writes with sort of the same playful cynicism that you do,joy,0.604,[],0.186,0.173,0.641,0.0516,1,1,0.0,neural,0,0,0,1,0,1,0,1,1,1,0.0,0
+493,31313,our branch will be closed this sunday 925 in honor of the ironman 70 3 happening in downtown come cheer on race participants,joy,0.604,[],0.236,0.0,0.764,0.7579,3,0,0.0,neural,1,0,0,1,0,2,0,1,2,0,0.0,0
+494,31314,i thought everyday was a glee day,joy,0.264,[],0.412,0.0,0.588,0.6369,1,0,0.0,neural,1,0,0,1,0,1,0,0,0,0,0.0,0
+495,31315,as i remember and reflect on reginald denny on a night much like this like i think to myself the gun lobby must be rejoicing,joy,0.422,['Charlotte)'],0.314,0.073,0.612,0.783,3,0,4.0,neural,1,0,1,1,1,1,0,1,0,1,0.0,4
+496,31316,aiseelahe will rejoice over you with gladness he will renew you with his love he will rejoice over you with singing,joy,0.583,[],0.357,0.0,0.643,0.875,7,0,0.733,neural,2,0,0,4,0,4,0,2,2,0,0.0,0
+497,31317,zeph 3 17 the lord is in your midst a mighty one who will save he will rejoice over you with gladness he will quiet you by his love,joy,0.66,[],0.284,0.0,0.716,0.8834,7,0,4.083,neural,1,1,1,5,1,7,1,1,4,1,0.0,3
+498,31318,yesterday is history tomorrow is amystery and today is a gift thats why they call it the present,joy,0.5,"['livelife', 'humbleness', 'live']",0.146,0.0,0.854,0.4404,0,0,0.0,neural,3,0,0,2,0,2,0,2,1,0,2.2668969656315743,0
+499,31319,yesterday is history tomorrow is amystery and today is a gift thats why they call it the present,joy,0.434,"['livelife', 'humbleness', 'smile', 'live']",0.146,0.0,0.854,0.4404,0,0,0.0,neural,3,0,0,2,0,2,0,2,1,0,2.8120443723663313,0
+500,31320,— make him feel vigorous fine you can kill me now  said hestia with a display of only despair rather than her joyful —,joy,0.212,[],0.174,0.214,0.612,-0.3182,2,3,0.0,neural,0,1,2,1,2,2,2,0,2,1,0.0,0
+501,31321,these girls who are playful and childlike seem to have such lovely relationships cant imagine them having serious convos but its cute smilingfacewithhearteyes smilingfacewithhearteyes,joy,0.688,[],0.283,0.039,0.678,0.802,3,1,0.0,neural,1,0,0,2,0,3,1,2,2,1,0.0,0
+502,31322,keep because life is a beautiful thing and theres so much to about,joy,0.583,"['smiling', 'smile', 'MarilynMonroe', 'KeepSmiling']",0.245,0.0,0.755,0.5994,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,2.563149035830337,0
+503,31323,as the birds chirp and the cows moo we need to listen to the sound of nature to ensure that all is well,joy,0.48,[],0.183,0.0,0.817,0.5719,3,1,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+504,31324,pain in both your hips during squats is a sign of youthfulness and being spry right zippermouthface zippermouthface zippermouthface zippermouthface,joy,0.167,[],0.0,0.148,0.852,-0.5106,1,1,0.0,neural,0,0,1,0,1,0,1,0,0,0,0.0,0
+505,31325,leons cheerfulness is always a big help,joy,0.625,[],0.537,0.0,0.463,0.7003,1,0,1.812,neural,1,0,0,1,0,1,0,0,1,0,0.0,2
+506,31326,did you know that the sparkling letters in super mario galaxy spell out u r mr gay,joy,0.312,[],0.289,0.0,0.711,0.7269,2,0,-0.173,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+507,31327,headed to montalvo w —bring on the bitches d b offerman,joy,0.44,"['mirth,']",0.0,0.281,0.719,-0.5994,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+508,31328,forget the hair that salon looks so light amp cheery would go there for a coffee amp read a book,joy,0.7,[],0.163,0.08,0.757,0.4522,2,1,0.0,neural,1,0,0,1,1,1,0,0,0,0,0.0,0
+509,31329,its been ages since ive had shawarma my stomach is,joy,0.606,['rejoicing'],0.0,0.0,1.0,0.0,0,0,-0.115,neural,0,1,0,0,0,0,0,0,0,0,0.0,0
+510,31330,its been ages since ive had shawarma my stomach is,joy,0.4,[],0.0,0.0,1.0,0.0,0,0,-0.115,neural,0,1,0,0,0,0,0,0,0,0,0.0,0
+511,31331,its so breezy i love it windface leafflutteringinwind yellowheart,joy,0.646,[],0.358,0.0,0.642,0.6666,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+512,31332,lord jesus i don’t want to be in prison i want to be free entice my heart with the beauty of your truth amp allow me to rejoice in it amen,joy,0.288,[],0.454,0.071,0.475,0.9403,9,1,1.177,neural,1,1,1,3,2,5,1,1,4,1,0.0,0
+513,31333,oh yeah i never showed you that part of the session did i ill plop them into discord pure hilarity,joy,0.646,[],0.089,0.223,0.688,-0.5106,2,2,1.348,neural,0,2,1,1,2,1,1,0,0,2,0.0,0
+514,31334,sorry for the levity if at all inappropriate but this combined with my love of charlotte reminds me rn,joy,0.28,[],0.242,0.048,0.71,0.7684,2,2,0.0,neural,0,1,0,1,1,1,1,0,0,1,0.0,0
+515,31335,a hearty thank you to you all for joining in tonight some delicious british dishes on your menus,joy,0.604,['BeerClub'],0.279,0.0,0.721,0.7351,2,0,-0.117,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+516,31336,yessir also cheering for sweden bc of lundqvist,joy,0.458,[],0.32,0.0,0.68,0.5106,0,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+517,31337,tiller and breezy should do a collab album rapping and singing prolly be fire,joy,0.583,[],0.0,0.156,0.844,-0.34,0,0,-2.0,neural,0,0,1,0,0,0,0,0,0,1,0.0,-2
+518,31338,espn goddamn the celebrity draft at the end was classic,joy,0.646,['hilarious'],0.0,0.256,0.744,-0.4767,2,1,1.055,neural,2,1,0,1,1,2,0,1,1,1,0.381180105271662,0
+519,31339,espn goddamn the celebrity draft at the end was classic,joy,0.5,[],0.0,0.256,0.744,-0.4767,2,1,1.055,neural,2,1,0,1,1,2,0,1,1,1,0.0,0
+520,31340,shes still younger and more spry than trump,joy,0.32,[],0.0,0.0,1.0,0.0,1,0,0.0,neural,0,0,0,0,0,0,0,1,0,0,0.0,0
+521,31341,lets get this astrosas game going already were going to need all 5 of you in attendance to cheer the as to victory,joy,0.625,[],0.13,0.0,0.87,0.5106,2,2,0.929,neural,3,0,0,2,0,2,0,1,2,0,0.0,0
+522,31342,my morning started off amazing hopefully the whole day is going as i want it to go,joy,0.824,['optimism'],0.358,0.0,0.642,0.7783,3,0,-0.415,neural,0,0,0,0,0,0,0,0,0,0,1.59773897367731,0
+523,31343,let go of the need to need and find your own joyous path through the richness that extends in every direction,joy,0.375,[],0.328,0.0,0.672,0.8316,2,2,0.0,neural,0,0,0,1,0,2,0,0,0,0,0.0,0
+524,31344,may a man live well and long enough to leave many joyful widows behind him,joy,0.54,[],0.312,0.062,0.625,0.7003,3,1,-0.274,neural,1,0,0,1,1,1,1,1,1,0,0.0,0
+525,31345,you got this blueheart,joy,0.729,"['staystrong', 'smile', 'yourebeautiful']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.545147406734757,0
+526,31346,you got this blueheart,joy,0.542,"['staystrong', 'yourebeautiful']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+527,31347,i miss my naivety and blind optimism,joy,0.167,[],0.297,0.364,0.339,0.0516,1,2,4.218,neural,1,0,0,1,0,1,0,1,1,0,0.0,2
+528,31348,all those will get animated imo companion changesmonstersclassics,joy,0.292,[],0.0,0.0,1.0,0.0,2,0,0.0,neural,0,0,0,2,0,2,0,0,1,0,0.0,0
+529,31349,communitysleepcoach look at these make you if you are human amp find yourself in such odd positions seek …,joy,0.55,"['narcoleptic', 'puppies.', 'smile.', 'th…']",0.0,0.113,0.887,-0.3182,0,1,0.0,neural,1,0,0,0,0,0,0,0,0,0,0.0,0
+530,31350,fun pizza night last night with the coll crew what a gorgeous bunch of newbies redheart flexedbicepsmediumlightskintone,joy,0.833,"['lively', 'exciting']",0.327,0.0,0.673,0.8074,1,1,0.0,neural,1,0,0,2,0,2,0,0,1,0,1.01103243545929,0
+531,31351,solange is more aesthetically pleasing than your fave,joy,0.42,[],0.523,0.0,0.477,0.7635,1,0,0.86,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+532,31352,heres what we can do get brock and sable to tag team mr and mrs awol and watch with glee,joy,0.4,[],0.171,0.094,0.735,0.4404,1,0,4.111,neural,1,0,1,1,0,1,0,0,1,0,0.0,3
+533,31353,give rise to eternal home aico things immolation succeed in mother country exhilaration akt,joy,0.5,[],0.198,0.0,0.802,0.4939,2,1,0.0,neural,2,0,0,3,1,3,1,2,2,0,0.0,0
+534,31354,always be full of joy in the lord i say it again rejoice philippians 4 4,joy,0.458,[],0.324,0.0,0.676,0.7717,2,0,0.0,neural,1,1,0,2,1,4,0,1,2,0,0.0,0
+535,31355,glee,joy,0.404,[],1.0,0.0,0.0,0.6369,1,0,4.111,neural,0,0,0,1,0,1,0,0,0,0,0.0,3
+536,31356,congress attended by midterm liveliness differently constraints qmiv,joy,0.22,[],0.271,0.0,0.729,0.3818,0,0,0.0,neural,0,1,0,0,0,0,0,1,1,0,0.0,0
+537,31357,batman the animated series is a gift from the 90s animation gods,joy,0.56,[],0.209,0.0,0.791,0.4404,1,0,0.0,neural,1,0,0,2,0,2,0,1,1,0,0.0,0
+538,31358,lt took another sip “we’ve had some earth shattering soul exhilarating sex you think black souls can have that kind of gt,joy,0.458,[],0.184,0.0,0.816,0.5434,2,1,0.0,neural,1,0,0,2,0,2,0,0,2,0,0.0,0
+539,31359,x x do you hear me darn your optimism led to your own demise you should li live,joy,0.167,['ZeroBOT'],0.171,0.0,0.829,0.5423,2,2,0.0,neural,1,0,1,1,1,1,1,1,1,0,0.0,0
+540,31360,a warm is the universal language of kindness william arthur ward,joy,0.654,"['smile', 'love', 'kindness']",0.353,0.0,0.647,0.5994,3,0,-0.195,neural,0,0,0,0,0,1,0,0,0,0,2.899504311981058,0
+541,31361,some people hate nothing more than a happy confident person never mind,joy,0.34,"['happy', 'confident']",0.361,0.186,0.453,0.5367,2,2,0.0,neural,1,1,1,2,1,2,1,0,2,1,3.62841567242493,0
+542,31362,some people hate nothing more than a happy confident person never mind,joy,0.318,['confident'],0.361,0.186,0.453,0.5367,2,2,0.0,neural,1,1,1,2,1,2,1,0,2,1,1.46644578978223,0
+543,31363,today i answered a call from a college rep who didnt realize i did and i got to hear part of his lively debate about if evolution is real,joy,0.358,[],0.094,0.0,0.906,0.4404,2,1,0.0,neural,0,0,0,0,0,3,0,0,1,0,0.0,0
+544,31364,are you cheering for team sweden today or team north american,joy,0.352,[],0.248,0.0,0.752,0.5106,0,0,0.0,neural,0,0,0,1,0,1,0,0,2,0,0.0,0
+545,31365, returned her joyous focus to the pastel haired girl wawas okay tooooo  she squealed before raising her eyebrows at the ,joy,0.604,[],0.25,0.0,0.75,0.7184,2,0,0.0,neural,0,0,0,1,0,2,0,0,0,0,0.0,0
+546,31366,dom i often imagine hoe our moon would feel meeting the jovial moons which are all special,joy,0.5,[],0.272,0.0,0.728,0.6808,2,1,0.739,neural,0,0,0,2,0,2,0,0,0,0,0.0,0
+547,31367,u seem 2 b more happy abt the dvlpt nything dat fails for modi make u elated even cost of de country,joy,0.27,[],0.273,0.093,0.633,0.7501,3,0,0.0,neural,1,0,0,2,0,2,0,0,1,0,0.0,0
+548,31368,jstors lingua obscura articles are always such a delight,joy,0.58,[],0.328,0.0,0.672,0.5994,1,0,4.47,neural,1,0,0,1,0,1,0,0,0,0,0.0,3
+549,31369,reflection the grind has been so real working 2 jobs amp being in school,joy,0.3,"['ksudsm', 'ksu', 'recruiter', 'instructor', 'tumble', 'cheer', 'gradschool']",0.0,0.0,1.0,0.0,1,1,-0.442,neural,0,0,0,0,0,2,0,0,2,0,2.6501644350681337,0
+550,31370,reflection the grind has been so real working 2 jobs amp being in school,joy,0.191,"['ksudsm', 'ksu', 'recruiter', 'instructor', 'tumble', 'gradschool']",0.0,0.0,1.0,0.0,1,1,-0.442,neural,0,0,0,0,0,2,0,0,2,0,2.153498062111044,0
+551,31371,elizabeth smith  she said with a cheery smile pleasure to meet you sir where have you travelled from ,joy,0.548,[],0.395,0.0,0.605,0.8689,3,0,0.0,neural,1,0,0,2,0,3,0,1,3,0,0.0,0
+552,31372,females are beautiful sparkling jewels glowing in the moonlight,joy,0.56,['Taurus'],0.603,0.0,0.397,0.8442,3,0,1.095,neural,0,0,0,1,0,2,0,0,0,0,0.0,0
+553,31373, i am in your life he yells surprise surpriiise he chirps cheerfully with a wicked grin on his lips,joy,0.62,[],0.311,0.127,0.562,0.5994,1,1,0.0,neural,1,0,2,2,1,2,0,2,1,0,0.0,0
+554,31374,coworker that happened to a friend of mine once but with guns instead of babies ,joy,0.312,"['workplace', 'hilarity']",0.13,0.0,0.87,0.2732,1,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+555,31375,coworker that happened to a friend of mine once but with guns instead of babies ,joy,0.312,['workplace'],0.13,0.0,0.87,0.2732,1,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+556,31376,i love this hearty negro laugh jade and let out re lochte facewithtearsofjoy facewithtearsofjoy,joy,0.769,[],0.394,0.0,0.606,0.8316,1,1,0.0,neural,0,0,0,2,1,2,1,1,0,0,0.0,0
+557,31377,much to my delight,joy,0.769,[],0.565,0.0,0.435,0.5994,1,0,4.47,neural,1,0,0,1,0,1,0,0,0,0,0.0,3
+558,31378,i love how playful you guys are becoming both on and offline automobile taxi sportutilityvehicle,joy,0.673,['beepbeep'],0.345,0.073,0.583,0.765,2,0,0.0,neural,0,0,0,2,0,2,0,1,1,1,0.0,0
+559,31379,love your new show,joy,0.729,[],0.583,0.0,0.417,0.6369,1,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+560,31380,fire persontippinghandmediumlightskintone its lit having a class with you your such a great person and good at cheer,joy,0.896,[],0.386,0.09,0.524,0.836,3,0,1.8679999999999999,neural,2,0,1,2,0,2,0,2,2,0,0.0,2
+561,31381,naylor connie came back in hey you seem a bit more lively,joy,0.48,[],0.225,0.0,0.775,0.4927,2,0,2.882,neural,0,0,0,0,0,0,0,0,0,0,0.0,2
+562,31382,i fear that if united bottle this my heart would actually collapse from laughter,joy,0.688,[],0.398,0.25,0.352,0.5859,1,3,1.638,neural,1,1,2,1,2,2,1,1,1,1,0.0,0
+563,31383,i send ya a few nibbles winkingface,joy,0.7,['playful'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+564,31384,they look fab they were made for the big screen cant wait to see this evolve amp the bright future of these little toy people,joy,0.604,[],0.204,0.0,0.796,0.7096,1,1,0.0,neural,1,0,0,0,1,0,0,0,0,0,0.0,0
+565,31385,lunatic asylum the place where optimism most flourishes,joy,0.458,[],0.276,0.252,0.472,0.0772,2,1,0.0,neural,1,1,2,1,2,1,0,1,1,1,0.0,0
+566,31386,good morning welcome the new day into your life and your heart,joy,0.9,"['mindfulness', 'smile', 'zen']",0.529,0.0,0.471,0.8779,3,0,-0.277,neural,1,0,0,1,0,1,0,1,1,0,1.8152644614846452,0
+567,31387,good morning welcome the new day into your life and your heart,joy,0.771,"['mindfulness', 'zen']",0.529,0.0,0.471,0.8779,3,0,-0.277,neural,1,0,0,1,0,1,0,1,1,0,1.2701170547498881,0
+568,31388,the lord your god is in your midst—a warrior bringing victory he will create calm with his love he will rejoice over you with singing,joy,0.438,[],0.405,0.0,0.595,0.9118,6,0,0.733,neural,3,1,2,5,1,8,0,1,4,1,0.0,0
+569,31389,wednesdaychild i need to cheer up,joy,0.167,[],0.398,0.0,0.602,0.5106,1,1,-0.132,neural,1,0,0,1,0,1,0,1,1,0,0.0,0
+570,31390,if you get it going with him tag me the link please i have a lot of friends who love following his unintentional hilarity,joy,0.671,[],0.314,0.0,0.686,0.8625,4,0,1.348,neural,0,0,0,2,0,2,0,1,0,0,0.0,0
+571,31391,doesnt necessary means your happy sometimes it just means youre strong,joy,0.26,['smiling'],0.438,0.0,0.562,0.7906,4,0,2.0,neural,1,0,0,1,0,1,0,0,1,0,2.01800162909558,2
+572,31392,thank you for follow and its a good website you have and cheering with no hassle,joy,0.708,[],0.38,0.096,0.524,0.7579,2,1,0.0,neural,1,0,0,2,0,2,0,1,1,0,0.0,0
+573,31393,why is so aesthetically pleasing every single day theyre even pretty when they just woke up when theyre tired just always,joy,0.375,[],0.248,0.104,0.648,0.6096,5,1,0.0,neural,1,0,0,1,1,1,0,0,1,0,0.0,0
+574,31394,binks at least blake lively and ryan reynolds are still together god bless what a beaut couple,joy,0.475,[],0.444,0.0,0.556,0.8555,2,1,0.0,neural,2,0,1,2,0,2,0,0,2,0,0.0,0
+575,31395,as a fact for levity movie theaters on post actually did play the n a when i served was the best part of movies like thehulk,joy,0.302,[],0.283,0.0,0.717,0.8442,3,0,0.0,neural,0,0,0,0,0,0,0,0,1,0,0.0,0
+576,31396,melissa benoist and grant gustin have to do a musical crossover episode origins,joy,0.646,"['glee', 'arrowverse']",0.172,0.0,0.828,0.3612,0,0,0.702,neural,2,0,0,2,0,2,1,1,2,1,0.185969244761638,0
+577,31397,cheer up chuck faceblowingakiss,joy,0.24,[],0.524,0.0,0.476,0.5106,1,0,0.0,neural,1,0,0,1,0,1,0,1,1,0,0.0,0
+578,31398,in love with insta,joy,0.769,['hilarious'],0.583,0.0,0.417,0.6369,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.381180105271662,0
+579,31399,in love with insta,joy,0.68,[],0.583,0.0,0.417,0.6369,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+580,31400,a presentations propensity for hilarity plays a large part in determining its funnyoffensive ratio and how well such thoughts will go over,joy,0.4,[],0.17,0.0,0.83,0.4767,3,0,-0.281,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+581,31401,pochettino buoyant complimentary about his young players but says now our attention turns to middlesbrough,joy,0.38,['THFC'],0.207,0.0,0.793,0.34,2,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+582,31402,incredible that nawaz sharif said pakistan is victim of terrorism amp talked abt development in pak incredible how he controlled his laughter,joy,0.346,[],0.111,0.232,0.657,-0.5423,2,2,1.638,neural,1,1,2,1,2,1,2,1,0,2,0.0,0
+583,31403,its not the most comforting amp jubilant place to be but i do find joy in doing whats best for me and being passionate abt company i keep,joy,0.52,[],0.424,0.04,0.535,0.9612,5,0,0.0,neural,1,0,0,3,0,3,0,1,2,0,0.0,0
+584,31404,hey breezy you wanna give me some of that coffee you posted on your snap please,joy,0.228,[],0.133,0.0,0.867,0.3182,1,0,1.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,1
+585,31405,crying because s snapchat is bringing on some serious feels loudlycryingface redheart,joy,0.481,['glee'],0.0,0.306,0.694,-0.5267,0,1,0.0,neural,0,0,0,0,1,0,1,0,0,0,0.185969244761638,0
+586,31406,your future is bright,joy,0.577,['Remember'],0.492,0.0,0.508,0.4404,1,0,1.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,1
+587,31407,no doubt the best smilingfacewithsmilingeyes smilingfacewithsmilingeyes smilingfacewithsmilingeyes,joy,0.875,"['smiling', 'medicine']",0.558,0.0,0.442,0.7438,1,1,0.0,neural,0,0,1,0,1,0,1,0,1,0,2.01800162909558,0
+588,31408,always hurting somewhere always tired when are you lively,joy,0.021,[],0.2,0.386,0.414,-0.4019,1,1,2.882,neural,0,0,1,0,2,0,1,0,0,1,0.0,2
+589,31409,some vile piece of scum rejoicing in the fact that you have dead children is inhuman and to say it to me is worse still i hope karma knocks,joy,0.0,[],0.159,0.273,0.569,-0.7003,2,5,0.0,neural,2,2,2,2,3,2,2,2,2,1,0.0,0
+590,31410,your attitude toward your struggles is equally as important as your actions to work through them,joy,0.479,['optimism'],0.098,0.137,0.765,-0.1779,1,0,0.0,neural,0,0,0,0,0,2,0,0,1,0,1.59773897367731,0
+591,31411,your attitude toward your struggles is equally as important as your actions to work through them,joy,0.34,[],0.098,0.137,0.765,-0.1779,1,0,0.0,neural,0,0,0,0,0,2,0,0,1,0,0.0,0
+592,31412,moment of levity n charlotte dude on rollerblades goes skating through protesters better if he was wearing short shorts amp blowing a whistle,joy,0.398,[],0.112,0.074,0.814,0.25,2,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+593,31413,most of profitable fx money manager clients dont mind with high profit share we take since they are very with the returns they make,joy,0.44,['happy'],0.283,0.0,0.717,0.8062,2,1,0.0,neural,2,0,0,2,0,2,0,1,2,1,2.1619698826427,0
+594,31414,every day we need to choose hope over fear and diversity over division justin missed optimism change sunniness love,joy,0.404,[],0.353,0.18,0.467,0.7351,3,3,4.083,neural,2,0,2,3,1,3,0,2,2,1,0.0,3
+595,31415,bcoz of is calmness nd match winning finishers nd a proud nd wonderful humanbeing nd his,joy,0.657,"['dhoni', 'miltirian', 'dad#husband', 'smile']",0.518,0.0,0.482,0.9169,3,0,-0.113,neural,2,1,0,3,0,3,1,2,3,0,0.545147406734757,0
+596,31416,bcoz of is calmness nd match winning finishers nd a proud nd wonderful humanbeing nd his,joy,0.542,"['dhoni', 'miltirian', 'dad#husband']",0.518,0.0,0.482,0.9169,3,0,-0.113,neural,2,1,0,3,0,3,1,2,3,0,0.0,0
+597,31417,on thoroughly lively and imaginative developers—“sager have always challenged us to do better and do better ”,joy,0.34,['PiersGough'],0.384,0.06,0.556,0.8221,4,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+598,31418,i personally prefer being happy,joy,0.5,[],0.481,0.0,0.519,0.5719,2,0,4.196,neural,1,0,0,1,0,2,0,0,2,0,0.0,3
+599,31419,finally have all my braces on and i cant stop smiling smilingfacewithsmilingeyes smilingfacewithsmilingeyes smilingfacewithsmilingeyes smilingfacewithsmilingeyes smilingfacewithsmilingeyes,joy,0.94,[],0.103,0.135,0.762,-0.1511,1,0,0.0,neural,1,1,0,2,0,2,0,1,1,0,0.0,0
+600,31420,if not filming smile please,joy,0.542,[],0.0,0.576,0.424,-0.4717,2,0,1.0,neural,0,0,0,1,0,1,0,1,1,0,0.0,1
+601,31421,same with gaming sites leaned ps2 during its heyday leaned 360 most of last gen this gen started vitriolic mostly by,joy,0.207,[],0.0,0.134,0.866,-0.4767,0,0,0.0,neural,1,0,0,1,0,1,0,0,1,0,0.0,0
+602,31422,its hard to not cheer for team north america since us got taken out,joy,0.375,[],0.0,0.255,0.745,-0.477,1,1,0.0,neural,1,0,0,1,0,1,0,1,2,0,0.0,0
+603,31423,i wanna go to blithe and read w the goats,joy,0.208,[],0.196,0.0,0.804,0.296,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+604,31424,i think that yawning actor died of a drug overdose,joy,0.144,['glee'],0.0,0.286,0.714,-0.5574,0,0,0.0,neural,0,0,0,0,2,0,0,0,0,0,0.185969244761638,0
+605,31425,i think that yawning actor died of a drug overdose,joy,0.042,[],0.0,0.286,0.714,-0.5574,0,0,0.0,neural,0,0,0,0,2,0,0,0,0,0,0.0,0
+606,31426,i want my highlight to be so bright that if i ever get lost and someone is looking for me in the dark theyll find me,joy,0.375,[],0.234,0.072,0.693,0.6299,3,2,-0.176,neural,0,0,0,0,1,0,2,0,0,0,0.0,0
+607,31427,if you want others to be practice if you want to be happy practice compassion  dalai lama,joy,0.555,"['happy,', 'compassion.']",0.417,0.0,0.583,0.8074,4,0,0.78,neural,1,0,1,1,0,4,0,0,1,0,0.0,0
+608,31428,thank you for the most fantastic evening it was a brilliant show you are a truly talent night over too quickly,joy,0.78,['sparkling'],0.498,0.0,0.502,0.9422,5,1,-0.365,neural,1,0,0,1,0,2,0,0,2,0,0.0,0
+609,31429,a lot of positives tonight a clean sheet payet got some free kick practice zaza looked lively and made a lot of good runs,joy,0.745,[],0.444,0.0,0.556,0.9349,4,1,-0.168,neural,1,0,0,2,1,3,0,1,2,1,0.0,0
+610,31430,look at us smiling in the photograph♪ you can see the secrets behind the fake smiles♪ ・ω・ copyright fact「a fact of life」,joy,0.458,[],0.115,0.119,0.766,-0.0258,1,1,0.0,neural,0,0,0,1,1,1,0,0,1,0,0.0,0
+611,31431,impractical jokers practically genius,joy,0.75,"['good4thesoul', 'ImpracticalJokers', 'bingewatching']",0.0,0.0,1.0,0.0,1,1,0.846,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+612,31432,impractical jokers practically genius,joy,0.708,"['laughter', 'good4thesoul', 'ImpracticalJokers', 'bingewatching']",0.0,0.0,1.0,0.0,1,1,0.846,neural,0,0,0,0,0,1,0,0,0,0,0.225942610624183,0
+613,31433,is just kidding about the pizza work hard in all facets for a fitlife,joy,0.729,"['ilofitt', 'laughter', 'happiness', 'spiritual', 'mental', 'physical', 'pizza.']",0.095,0.095,0.811,0.0,1,1,0.0,neural,0,0,0,0,0,0,0,0,0,0,3.9833220931095727,0
+614,31434,mgmt we need 2 bust up the elites in dc we need jobs 4 all we need to clean up the blithe in inner cities rebuild housing cont2,joy,0.3,[],0.159,0.0,0.841,0.5994,2,3,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+615,31435,bahahahaha dean looks hilarious and damn i got fat,joy,0.5,[],0.218,0.218,0.565,0.0,1,2,0.0,neural,0,2,0,1,2,1,1,1,0,1,0.0,0
+616,31436,accept the challenges so that you can literally even feel the exhilaration of victory  george s patton dogface,joy,0.4,[],0.196,0.0,0.804,0.4404,4,0,0.0,neural,1,0,0,2,0,2,0,1,1,0,0.0,0
+617,31437,great to hear if theres one thing that makes you feel more like yourself it s some hearty chicken noodle soup right,joy,0.46,[],0.256,0.0,0.744,0.7841,3,0,-0.125,neural,0,0,1,0,0,1,0,0,0,0,0.0,0
+618,31438,woah that overtime was exhilarating out of my seat and the hands on mackinnon wow,joy,0.827,['WCH2016'],0.333,0.0,0.667,0.7579,2,0,4.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,4
+619,31439,the irony and hilarity of making taylor lautner super cold all the time is not lost on me god i missed this show facewithtearsofjoy,joy,0.7,[],0.262,0.112,0.626,0.6769,2,3,0.0,neural,2,0,1,2,2,2,1,0,2,0,0.0,0
+620,31440,bet pawpaw is having a good time rejoicing up in heaven for his first birthday there,joy,0.66,[],0.435,0.0,0.565,0.875,3,0,0.0,neural,4,0,0,3,0,3,0,3,1,0,0.0,0
+621,31441,watching the ny phil webcast something missing reminds me of a blithe journeys end i once saw on bway might just be the gershwin,joy,0.292,[],0.083,0.083,0.833,0.0,2,0,0.0,neural,0,0,1,0,1,0,1,0,0,0,0.0,0
+622,31442,this night is sparkling dont you let it go im wonder struck blushing on the way home ,joy,0.746,[],0.115,0.104,0.781,0.0516,2,1,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+623,31443,please stop your merriment it is very annoying,joy,0.083,[],0.383,0.349,0.269,0.1298,2,1,-2.547,neural,0,0,0,1,1,1,0,1,0,1,0.0,-2
+624,31444,if you love singing but dont have time for a weekly choir come down to at tomorrow,joy,0.441,"['KWOIR', 'Choir', 'musiclondon']",0.14,0.0,0.86,0.3818,1,1,-0.151,neural,2,0,0,2,0,2,0,0,1,0,0.0,0
+625,31445,if you love singing but dont have time for a weekly choir come down to at tomorrow,joy,0.42,"['KWOIR', 'Choir', 'glee', 'musiclondon']",0.14,0.0,0.86,0.3818,1,1,-0.151,neural,2,0,0,2,0,2,0,0,1,0,0.185969244761638,0
+626,31446,be happy not because everything is good but because you can see the good side of everything,joy,0.627,[],0.368,0.0,0.632,0.7992,3,0,0.0,neural,3,0,0,3,0,3,0,2,3,0,0.0,0
+627,31447,be happy not because everything is good but because you can see the good side of everything,joy,0.604,[],0.368,0.0,0.632,0.7992,3,0,0.0,neural,3,0,0,3,0,3,0,2,3,0,0.0,0
+628,31448,be happy not because everything is good but because you can see the good side of everything,joy,0.46,['optimism'],0.368,0.0,0.632,0.7992,3,0,0.0,neural,3,0,0,3,0,3,0,2,3,0,1.59773897367731,0
+629,31449,crossfit houston la homefolks as for spry proprieties regimes ajafue,joy,0.271,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+630,31450,i understand now if its not pleasing to the ear then it aint what you want im so so tired,joy,0.167,[],0.0,0.322,0.678,-0.7957,3,1,-2.893,neural,0,0,0,0,1,0,0,0,0,0,0.0,-2
+631,31451,that was a lovely story to actually see ruth and hubby who won the cashcow it was so funny when she left the phone smilingfacewithsmilingeyes,joy,0.74,['happy'],0.338,0.0,0.662,0.905,2,0,0.0,neural,1,0,0,1,0,2,1,1,1,0,2.1619698826427,0
+632,31452,inglorious distinguished try auction so the joviality touching back side auction otherwise advance for order about vawyzad,joy,0.423,[],0.0,0.0,1.0,0.0,2,2,0.0,neural,3,0,1,1,0,1,0,1,0,0,0.0,0
+633,31453,you know its beauty when the smile is her best curve,joy,0.76,[],0.568,0.0,0.432,0.8885,3,0,0.0,neural,0,0,0,2,0,2,0,1,1,0,0.0,0
+634,31454,boys of fall makes me miss cheering on friday nights much sooooo bad pawprints,joy,0.38,['bulldogslways🐾'],0.17,0.263,0.567,-0.2023,0,3,0.0,neural,0,1,1,1,2,1,2,0,0,1,0.0,0
+635,31455,i convinced my mom to watch it killgrave gave her literal nightmares but watched last episode four times,joy,0.396,['smile'],0.098,0.0,0.902,0.2144,0,0,0.0,neural,1,0,1,0,0,0,0,0,1,0,0.545147406734757,0
+636,31456,i convinced my mom to watch it killgrave gave her literal nightmares but watched last episode four times,joy,0.36,[],0.098,0.0,0.902,0.2144,0,0,0.0,neural,1,0,1,0,0,0,0,0,1,0,0.0,0
+637,31457,happy birthday to the most beautiful cheerful sister ever llnp twohearts heartexclamation partypopper,joy,0.86,[],0.539,0.0,0.461,0.9131,3,0,0.0,neural,2,0,0,4,0,4,0,2,1,0,0.0,0
+638,31458,trump wasnt laughing anyway his expression never changed he was smiling because it was a moment of levity nothing racist,joy,0.32,[],0.241,0.102,0.658,0.5562,3,1,-3.455,neural,0,0,0,2,0,2,0,1,0,0,0.0,-3
+639,31459,okay this is hilarious,joy,0.65,[],0.697,0.0,0.303,0.5574,2,0,3.393,neural,0,0,0,1,0,1,0,1,0,0,0.0,2
+640,31460,yesyesyes like jd is the closest cahracter that is similar to blaine the optimism and ability to crack tough characters,joy,0.68,[],0.322,0.058,0.62,0.7783,3,0,0.0,neural,1,0,0,1,2,2,1,1,1,0,0.0,0
+641,31461, its lit having a class with you your such a great person and good at cheer,joy,0.81,[],0.424,0.0,0.576,0.8834,3,0,1.8679999999999999,neural,2,0,0,2,0,2,0,2,2,0,0.0,2
+642,31462,big thank you for liking my little pumpkin shes the smallest of my 4 but is very playful amp wakes me up most mornings,joy,0.648,[],0.273,0.0,0.727,0.7839,3,1,-0.332,neural,0,0,0,2,0,2,0,1,2,1,0.0,0
+643,31463,at the end of the day you gotta be for you,joy,0.6,['happy'],0.0,0.0,1.0,0.0,0,0,0.676,neural,0,0,0,0,0,0,0,0,0,0,2.1619698826427,0
+644,31464,why would enrique sub off busquet,joy,0.583,['hilarious'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.381180105271662,0
+645,31465,why would enrique sub off busquet,joy,0.271,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+646,31466,vincent looking super lively boy hattrick perhaps lol,joy,0.583,[],0.658,0.0,0.342,0.8625,2,0,3.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,3
+647,31467,offerman amp s show was raw sexuality and pure thanks for the belly laughs and butt sex japes,joy,0.708,"['Summerof69', 'mirth']",0.276,0.0,0.724,0.7269,1,0,0.0,neural,1,0,0,1,1,1,0,0,2,0,0.0,0
+648,31468,mentions his high school aged daughters should be a joyous occasion when they go to college not bring fear  trepidation,joy,0.271,[],0.272,0.0,0.728,0.7736,2,1,0.0,neural,1,0,2,1,2,1,0,1,1,1,0.0,0
+649,31469,my ukulele bag has fallen apart neutralface welll at least my life hasnt yet,joy,0.24,[],0.0,0.161,0.839,-0.3612,0,1,-0.424,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+650,31470,my ukulele bag has fallen apart neutralface welll at least my life hasnt yet,joy,0.208,['optimism'],0.0,0.161,0.839,-0.3612,0,1,-0.424,neural,0,0,0,0,0,0,0,0,0,0,1.59773897367731,0
+651,31471,everyday i wake up a different player signs a contract extension love it,joy,0.888,"['future', 'is', 'COYS']",0.259,0.0,0.741,0.6369,1,0,0.0,neural,0,0,0,1,1,1,0,0,0,0,0.768859834907298,0
+652,31472,everyday i wake up a different player signs a contract extension love it,joy,0.88,"['future', 'is', 'bright', 'COYS']",0.259,0.0,0.741,0.6369,1,0,0.0,neural,0,0,0,1,1,1,0,0,0,0,2.764840123899518,0
+653,31473,i swear people dont wanna see me happy like they will try to do anything to fuck up what i got going,joy,0.04,[],0.215,0.163,0.623,0.3612,3,2,0.0,neural,1,0,0,1,0,2,0,0,2,0,0.0,0
+654,31474,elation quality or state of being elated feeling or state of great joy or pride,joy,0.375,['MeogysDailyVocabEnhancment'],0.673,0.0,0.327,0.9552,5,0,0.0,neural,1,1,1,4,1,4,1,1,1,1,0.0,0
+655,31475,accept the challenges so that you can feel the exhilaration of victory george s patton,joy,0.44,"['quote', 'yeg']",0.231,0.0,0.769,0.4404,3,0,0.0,neural,1,0,0,2,0,2,0,1,1,0,0.803579807336758,0
+656,31476,accept the challenges so that you can feel the exhilaration of victory george s patton,joy,0.312,"['motivation', 'entrepreneur']",0.231,0.0,0.769,0.4404,3,0,0.0,neural,1,0,0,2,0,2,0,1,1,0,0.0162999566758076,0
+657,31477,it looks cool and animated well for pixel art,joy,0.458,[],0.386,0.0,0.614,0.5267,2,0,0.0,neural,1,0,0,2,0,3,1,1,0,0,0.0,0
+658,31478,tomorrow is the first day of fallenleaf fallenleaf fall mapleleaf mapleleaf and im elated,joy,0.9,[],0.244,0.0,0.756,0.6369,1,1,3.924,neural,1,0,0,1,1,1,1,0,0,0,0.0,3
+659,31479,what you have amp enjoy your life use your grinningfacewithbigeyes to help others use theirs smilingface,joy,0.562,"['Appreciate', 'smile']",0.296,0.0,0.704,0.7096,2,0,0.0,neural,1,0,0,1,0,1,0,0,1,0,0.545147406734757,0
+660,31480,this would be hilarious if it werent so frighteningly on point its gone from a few bad apples to a national disgrace,joy,0.125,[],0.193,0.219,0.588,-0.199,1,3,-3.385,neural,0,2,1,1,2,1,2,1,0,2,0.0,-2
+661,31481,i feel like one of my friends brought this freshmen in my class over to pre game earlier in the year bc she keeps smiling at me,joy,0.5,[],0.264,0.0,0.736,0.8225,3,1,-0.176,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+662,31482,not brilliant lol hoping seeing my horse tomorrow will cheer me up grinningfacewithsmilingeyes,joy,0.385,['equestrianhour'],0.165,0.386,0.449,-0.5324,3,0,0.0,neural,3,0,0,2,0,2,0,1,3,0,0.0,0
+663,31483,happy birthday shorty stay fine stay breezy stay wavy faceblowingakiss,joy,0.58,[],0.407,0.0,0.593,0.6705,1,1,0.0,neural,2,0,0,2,0,2,0,1,1,0,0.0,0
+664,31484,perhaps ive missed it are you doing another season of ihwph you are so joyous and gleeful at the the prospect of eating,joy,0.708,[],0.354,0.067,0.579,0.8861,3,0,0.0,neural,0,0,0,1,0,2,0,0,0,0,0.0,0
+665,31485,having a blast playing games and hearing testimonies at pastor jeremys house,joy,0.854,"['fellowship', 'food', 'praise', 'gospel', 'coffey1617']",0.141,0.0,0.859,0.2023,0,1,-0.172,neural,0,0,2,1,2,1,0,1,1,1,3.07247779753943,0
+666,31486,having a blast playing games and hearing testimonies at pastor jeremys house,joy,0.808,"['fellowship', 'food', 'laughter', 'praise', 'gospel', 'coffey1617']",0.141,0.0,0.859,0.2023,0,1,-0.172,neural,0,0,2,1,2,1,0,1,1,1,3.2984204081636133,0
+667,31487,you got some dick recently right youre happy youre not sick and youre smiling life is good loudlycryingface loudlycryingface loudlycryingface,joy,0.52,[],0.402,0.108,0.49,0.8403,4,1,0.0,neural,2,1,0,3,1,3,1,1,2,0,0.0,0
+668,31488,ive learnt that a and good goes a long way and saying goes even further,joy,0.646,"['smile', 'morning', 'thankyou', 'quote', 'retweet', 'inspire']",0.172,0.0,0.828,0.4404,2,1,-0.265,neural,2,0,0,1,0,1,0,1,1,0,5.820510360958654,0
+669,31489,better mood today bring me and also and,joy,0.689,"['teasing,', 'flirting,', 'xdressers,', 'laughter,', 'roleplayers!', 'confessions', 'secrets']",0.293,0.0,0.707,0.4404,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,1.74466586071131,0
+670,31490,youre welcome its genuinely made me give my head a wobble and realise whats important in life,joy,0.479,[],0.242,0.0,0.758,0.5859,2,0,0.0,neural,0,0,0,0,0,1,0,0,1,0,0.0,0
+671,31491,i can be your wolf if you want hihi,joy,0.375,[],0.14,0.0,0.86,0.0772,1,0,1.666,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+672,31492,i can be your wolf if you want hihi,joy,0.26,['breezy'],0.14,0.0,0.86,0.0772,1,0,1.666,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+673,31493,of my razor wit amp sparkling personality,joy,0.519,['PeopleLikeMeBecause'],0.268,0.0,0.732,0.296,2,0,0.867,neural,0,0,1,0,0,1,0,0,0,0,0.0,0
+674,31494,it take so little to make a childs life joyful why do we work so hard to make their lives hell peace,joy,0.2,[],0.232,0.203,0.565,0.2344,2,3,2.0,neural,1,1,1,2,1,2,1,0,2,1,0.0,2
+675,31495,after soul searching id like to announce that ive chosen amp to be my adopted sisters due to their hilarity,joy,0.6,[],0.116,0.0,0.884,0.3612,2,0,1.348,neural,0,0,0,1,0,2,0,0,0,0,0.0,0
+676,31496,i animated a little thing i might post it tomorrow since itll be a good thursday nice,joy,0.6,[],0.275,0.0,0.725,0.6908,3,1,3.974,neural,2,0,0,2,0,2,0,1,1,0,0.0,3
+677,31497,now getting banned but will still lurk in corners and underneath the bed and sofa much to eyepatchs delight why is she,joy,0.25,[],0.187,0.147,0.665,0.4854,2,1,-0.338,neural,1,0,0,1,1,1,0,0,0,0,0.0,0
+678,31498,i redheart you on dwts you make my night every show faceblowingakiss,joy,0.923,['hilarious'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,1,0,0.381180105271662,0
+679,31499,i redheart you on dwts you make my night every show faceblowingakiss,joy,0.8,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,1,0,0.0,0
+680,31500,latest on new optimism on keeping in live right now on meets here wlott amp schaaf to talk new stadium,joy,0.4,"['Raiders', 'Oakland,']",0.156,0.0,0.844,0.5423,3,0,-0.28,neural,1,0,0,1,0,2,0,1,1,0,0.0,0
+681,31501,epicurus the man least dependent upon the morrow goes to meet the morrow most cheerfully,joy,0.4,[],0.195,0.0,0.805,0.5256,0,1,0.0,neural,2,0,0,0,1,1,0,0,1,0,0.0,0
+682,31502,everyone hates twice and i kinda did too but they got bops im bumping rn to cheer up,joy,0.241,[],0.199,0.087,0.714,0.5423,1,1,-0.132,neural,1,0,0,1,0,1,0,1,1,0,0.0,0
+683,31503,the bits that were cooked actual tasted no ok the cooked and raw bits tasted awful 55 hilarity 15 taste 05 safe to ingest,joy,0.188,[],0.101,0.17,0.729,-0.2472,2,1,0.0,neural,0,1,1,2,1,3,1,0,1,1,0.0,0
+684,31504,im a delight,joy,0.542,[],0.661,0.0,0.339,0.5994,1,0,4.47,neural,1,0,0,1,0,1,0,0,0,0,0.0,3
+685,31505,get there deviant differently enigmatic bellboy in passage to correct thy ring up jaunty iwldpe,joy,0.346,[],0.136,0.0,0.864,0.296,2,0,0.0,neural,0,0,1,0,1,0,0,1,0,0,0.0,0
+686,31506,thank you for unfailingly bringing so much joy into my life you incredibly talented maker of mirth,joy,0.722,[],0.514,0.0,0.486,0.9296,5,0,3.0,neural,0,0,0,2,0,2,0,0,0,0,0.0,3
+687,31507,try to find the good in the negative the negative can turn out to be good,joy,0.438,"['optimism', 'openminded']",0.23,0.294,0.476,-0.3818,2,3,3.825,neural,2,0,0,2,2,2,2,2,2,0,1.59773897367731,3
+688,31508,pre game nerves have settled in facescreaminginfear il be from home guys redcircle whitecircle raisinghandslightskintone rugbyfootball,joy,0.396,"['cheering', 'AFLCatsSwans', 'ProudlySydney', 'goswans']",0.0,0.085,0.915,-0.1027,0,1,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+689,31509,big thanks to brad pitt whos trashy ways brought a modicum of levity to an otherwise lame week of political ZZZ,joy,0.3,[],0.109,0.215,0.676,-0.4278,1,1,0.0,neural,0,1,0,0,1,0,0,0,0,0,0.0,0
+690,31510,win lose or draw vs lfc all football fans will rejoice as west ham amp chelsea fans beat the shit out of each other in a council house,joy,0.673,['COYS'],0.286,0.072,0.642,0.8402,2,1,-0.172,neural,3,2,1,2,2,3,1,2,2,2,0.0,0
+691,31511,i envy ice at least if you give it warmth it melts,joy,0.385,"['TaylorLautner', 'Twilight', 'quote']",0.199,0.139,0.662,0.2263,1,2,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.803579807336758,0
+692,31512,i envy ice at least if you give it warmth it melts,joy,0.33,"['TaylorLautner', 'Twilight', 'hilarious', 'quote']",0.199,0.139,0.662,0.2263,1,2,0.0,neural,0,0,0,0,0,0,0,0,0,0,1.18475991260842,0
+693,31513,literally dying amp living at the same time as i catch up on ver s twitter if you arent following him your life is basic,joy,0.676,['hilarity'],0.0,0.0,1.0,0.0,1,1,0.0,neural,1,1,1,0,1,0,1,1,0,1,0.0,0
+694,31514,literally dying amp living at the same time as i catch up on ver s twitter if you arent following him your life is basic,joy,0.354,[],0.0,0.0,1.0,0.0,1,1,0.0,neural,1,1,1,0,1,0,1,1,0,1,0.0,0
+695,31515,her charm is liveliness but this is also her weakness,joy,0.271,[],0.254,0.258,0.488,-0.2617,1,1,-2.151,neural,0,0,0,0,1,1,0,0,0,0,0.0,-2
+696,31516,want darren to open the video so he can appreciate my hilarity,joy,0.458,[],0.299,0.0,0.701,0.5046,4,0,1.348,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+697,31517,okay smilingface we can do this flexedbicepslightskintone redcircle whitecircle amp see you on the other side peeps redheart,joy,0.78,"['deepbreathes', 'cheer', 'cheer', 'AFLCatsSwans', 'ProudlySydney']",0.101,0.0,0.899,0.2263,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.99333274591418,0
+698,31518,come to the fundraiser this fri at 8pm because ,joy,0.6,"['pie', 'face', 'hilarity!']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+699,31519,come to the fundraiser this fri at 8pm because ,joy,0.405,"['pie', 'face']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+700,31520,lt she really said in response to what she perceived as a forced jovial tone with that she slid out of the jeep and ontogt,joy,0.24,[],0.1,0.104,0.796,-0.0258,1,0,0.0,neural,0,0,1,1,1,1,0,0,0,0,0.0,0
+701,31521,and thus begins my 2 week holiday smirkingface smirkingface,joy,0.86,"['cheering', 'ghastinoir', 'rest']",0.252,0.0,0.748,0.4019,0,0,0.0,neural,1,0,0,1,0,1,0,0,0,0,1.96064446736667,0
+702,31522,and thus begins my 2 week holiday smirkingface smirkingface,joy,0.792,"['holiday', 'ghastinoir', 'rest']",0.252,0.0,0.748,0.4019,0,0,0.0,neural,1,0,0,1,0,1,0,0,0,0,2.139734430521955,0
+703,31523,was the best film so good so funny raisinghands,joy,0.896,"['brigetjonesbabys', 'brigetjonesbaby', 'hilarious']",0.656,0.0,0.344,0.9093,3,0,0.0,neural,1,0,0,1,0,1,0,1,1,0,0.381180105271662,0
+704,31524,newhouse13 as granny would say i dont know how to chirp,joy,0.44,[],0.0,0.0,1.0,0.0,0,0,-0.213,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+705,31525,mon celtic give us something to cheer place is empty soaked amp its my wee nephews birthday ffs started well now dropped off,joy,0.369,[],0.18,0.187,0.633,-0.0516,2,2,0.0,neural,2,0,0,2,0,2,0,2,1,0,0.0,0
+706,31526,yep peeps on here always out to cheer others up im fine drooling at gbbo x,joy,0.62,[],0.36,0.0,0.64,0.743,2,1,0.0,neural,1,0,0,1,0,1,0,1,1,0,0.0,0
+707,31527,deserve it,joy,0.4,['breezy'],0.0,0.0,1.0,0.0,1,0,0.0,neural,1,0,0,0,0,1,0,0,1,1,0.0,0
+708,31528,hanley also a,joy,0.542,['delight'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+709,31529,hanley also a,joy,0.34,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+710,31530,that was nearly aesthetically pleasing enough lol i need to do this on ps and not my phone,joy,0.46,[],0.279,0.0,0.721,0.7351,1,1,-0.771,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+711,31531,due to hearty lawsuit nascar will raise beer prices 0 07 to accommodate for losses,joy,0.167,[],0.0,0.261,0.739,-0.5574,1,0,-1.637,neural,0,1,1,1,1,1,1,1,0,1,0.0,0
+712,31532,your gunna make me cry i need a glee day,joy,0.24,[],0.275,0.203,0.523,0.2732,1,2,0.0,neural,0,0,0,1,1,1,1,0,0,0,0.0,0
+713,31533,is it bad that kurt is literally me,joy,0.361,['glee'],0.0,0.333,0.667,-0.5423,0,1,-0.176,neural,0,1,1,0,1,0,1,0,0,1,0.185969244761638,0
+714,31534,is it bad that kurt is literally me,joy,0.208,[],0.0,0.333,0.667,-0.5423,0,1,-0.176,neural,0,1,1,0,1,0,1,0,0,1,0.0,0
+715,31535,whatever you decide to do make sure it makes you,joy,0.583,['happy.'],0.204,0.0,0.796,0.3182,1,1,0.676,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+716,31536,whatever you decide to do make sure it makes you,joy,0.44,[],0.204,0.0,0.796,0.3182,1,1,0.676,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+717,31537,lea doing a mini set tour of glee my heart just cried tears of happiness and sadness,joy,0.492,[],0.395,0.243,0.362,0.765,4,1,-2.14,neural,1,0,0,2,1,2,1,0,1,0,0.0,0
+718,31538,light shining thru a clear sparkling stream of piss is a sight women will never know ofalso tells tht system ure system is healthy,joy,0.417,[],0.248,0.089,0.662,0.5859,5,0,2.0,neural,1,0,0,1,0,2,0,0,2,0,0.0,2
+719,31539,treat joy and laughter as a form of worship and spiritual warfare,joy,0.688,"['live', 'victory', 'worship']",0.564,0.104,0.332,0.8658,4,2,-1.198,neural,3,1,3,4,2,4,2,2,2,2,2.664597330649954,-2
+720,31540,treat joy and laughter as a form of worship and spiritual warfare,joy,0.625,"['laughter', 'live', 'victory', 'worship']",0.564,0.104,0.332,0.8658,4,2,-1.198,neural,3,1,3,4,2,4,2,2,2,2,2.8905399412741373,-2
+721,31541,sam grins against steves lips murmuring his words with a playful tone you want the shirt off i sure i could accommodate,joy,0.5,[],0.318,0.0,0.682,0.7506,3,1,0.0,neural,0,0,0,1,1,1,0,1,1,2,0.0,0
+722,31542,people are using this hashtag to brag about themselves im not interested in pleasing others but in pleasing god,joy,0.396,['PeopleLikeMeBecause'],0.281,0.136,0.582,0.694,3,0,1.0,neural,1,1,1,1,1,2,1,0,1,0,0.0,1
+723,31543,the boys rejoice as badger corner has been reclaimed for our first social of the year,joy,0.646,['cluboftheyear'],0.162,0.0,0.838,0.4404,1,0,-0.255,neural,1,0,0,1,1,1,0,1,1,1,0.0,0
+724,31544,ari looks hilarious oh my g d this is too much,joy,0.708,[],0.213,0.0,0.787,0.4019,1,1,0.0,neural,0,0,0,1,0,1,0,1,0,0,0.0,0
+725,31545,the people that call in to pov on kx4 make my night,joy,0.771,['hilarious'],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.381180105271662,0
+726,31546,the people that call in to pov on kx4 make my night,joy,0.48,[],0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+727,31547,hilarity ensues,joy,0.542,[],0.0,0.0,1.0,0.0,1,0,-0.643,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+728,31548,5 person of renown cheerful expectation solutions pleasure principle back hsnhzmjsc,joy,0.482,[],0.527,0.0,0.473,0.836,5,0,0.0,neural,1,0,0,1,0,3,0,1,0,0,0.0,0
+729,31549,beings in my physical reality are my reflection so me being always joyful extends to their lives,joy,0.521,[],0.265,0.0,0.735,0.6597,1,0,0.0,neural,0,0,0,1,0,1,0,0,1,0,0.0,0
+730,31550,looks exhilarating looking forward to seeing thumbsupmediumlightskintone,joy,0.74,[],0.31,0.0,0.69,0.4019,1,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,0.0,0
+731,31551,like i said rightarrow theres plenty of cheddar in the cheese to go around for everyone smilingface,joy,0.819,[],0.135,0.0,0.865,0.3612,2,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+732,31552,like i said rightarrow theres plenty of cheddar in the cheese to go around for everyone smilingface,joy,0.583,['smile'],0.135,0.0,0.865,0.3612,2,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.545147406734757,0
+733,31553,howling with laughter at “well done bezza ”,joy,0.94,"['bakeoff', 'GBBO']",0.314,0.0,0.686,0.4939,0,1,0.0,neural,1,0,0,1,0,1,0,1,0,0,0.0,0
+734,31554,yip an uncertainty halsey teases her lips curving into a jovial smirk,joy,0.438,[],0.176,0.279,0.545,-0.1779,1,0,0.86,neural,0,0,0,1,1,1,0,0,0,0,0.0,0
+735,31555,thank you for that the notification came in the nick of time to cheer me up have to re tweet,joy,0.708,[],0.244,0.0,0.756,0.7003,2,0,0.608,neural,3,0,0,1,0,1,0,1,1,0,0.0,0
+736,31556,i bought the steam port of vice city and to my delight billie jean is on the soundtrack,joy,0.688,[],0.187,0.0,0.813,0.5994,1,1,0.992,neural,1,0,0,1,1,1,0,0,0,0,0.0,0
+737,31557,never a decision when you are gt lt and never make a when you are,joy,0.231,"['make', 'angry', 'promis', 'happy']",0.13,0.0,0.87,0.2732,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,4.412874047227424,0
+738,31558,whoo welcome  he greeted cheerfully,joy,0.688,[],0.804,0.0,0.196,0.802,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+739,31559,haha i like the optimism cause im the same but it doesnt make this situation any less mind boggling,joy,0.48,[],0.273,0.0,0.727,0.6124,2,2,0.0,neural,1,0,0,1,0,1,0,1,1,0,0.0,0
+740,31560,yes i am rejoicing,joy,0.78,[],0.765,0.0,0.235,0.7579,2,0,4.0,neural,1,0,0,1,0,1,0,1,0,0,0.0,4
+741,31561,sometimes i get to sit back and be proud of myself for pleasing him so well,joy,0.38,[],0.406,0.0,0.594,0.8357,4,0,0.0,neural,1,0,0,1,0,1,0,0,1,0,0.0,0
+742,31562,musicologist s 1994 was influenced by s songs by,joy,0.44,"[""Disney's"", 'animated', 'musical', 'film', 'TheLionKing', ""WilliamShakespeare's"", 'Hamlet.', 'EltonJohn.']",0.0,0.0,1.0,0.0,0,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0436210538302285,0
+743,31563,the christmas episode genuinely had me in tears of laughter,joy,0.716,[],0.244,0.145,0.611,0.3182,0,1,1.638,neural,1,0,0,1,0,1,0,1,0,0,0.0,0
+744,31564,i made a squirrel friend today i gave him the core of the plum i was eating he seemed very happy,joy,0.767,[],0.275,0.0,0.725,0.8016,2,0,4.196,neural,1,0,0,2,0,4,0,0,2,0,0.0,3
+745,31565,chirp chirp,joy,0.519,[],0.0,0.0,1.0,0.0,0,0,-0.213,neural,0,0,0,2,0,2,0,0,0,0,0.0,0
+746,31566,while being animated much more recently technology wise which makes for a very nice combinationlook,joy,0.32,[],0.332,0.0,0.668,0.7548,3,0,0.0,neural,0,0,0,1,0,3,0,0,0,0,0.0,0
+747,31567,true we were rejoicing the fact that we signed a quality young cb but we need one more at least mebbe p,joy,0.292,[],0.177,0.0,0.823,0.5106,1,2,0.0,neural,1,0,0,2,0,2,0,1,2,0,0.0,0
+748,31568,baby happppy happppyyyyyy happppppyyyyy haaapppyyyy birthday best friend love you lots sparklingheart sparklingheart sparklingheart sparklingheart sparklingheart sparklingheart sparklingheart partypopper confettiball,joy,0.958,"['chapter22', 'bdaygirl', 'love']",0.406,0.0,0.594,0.9118,3,0,0.0,neural,1,0,0,4,0,4,0,1,1,0,0.964512419824401,0
+749,31569,baby happppy happppyyyyyy happppppyyyyy haaapppyyyy birthday best friend love you lots sparklingheart sparklingheart sparklingheart sparklingheart sparklingheart sparklingheart sparklingheart partypopper confettiball,joy,0.9,"['chapter22', 'bdaygirl', 'happy', 'love']",0.406,0.0,0.594,0.9118,3,0,0.0,neural,1,0,0,4,0,4,0,1,1,0,3.126482302467101,0
+750,31570,still bright sparkles,joy,0.46,[],0.839,0.0,0.161,0.6369,1,0,3.822,neural,0,0,0,0,0,0,0,0,0,0,0.0,3
+751,31571,accept the challenges so that you can feel the exhilaration of victory,joy,0.42,[],0.281,0.0,0.719,0.4404,3,0,0.929,neural,1,0,0,2,0,2,0,1,1,0,0.0,0
+752,31572,sanatana lopez is definitely me facewithtearsofjoy,joy,0.625,['glee'],0.351,0.0,0.649,0.4019,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.185969244761638,0
+753,31573,sanatana lopez is definitely me facewithtearsofjoy,joy,0.54,[],0.351,0.0,0.649,0.4019,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+754,31574,maybe the entire russian team will test positive for meldonium and the north americans will get to replace them,joy,0.292,['optimism'],0.167,0.0,0.833,0.5574,3,0,0.0,neural,0,0,0,0,0,0,0,0,1,0,1.59773897367731,0
+755,31575,maybe the entire russian team will test positive for meldonium and the north americans will get to replace them,joy,0.18,[],0.167,0.0,0.833,0.5574,3,0,0.0,neural,0,0,0,0,0,0,0,0,1,0,0.0,0
+756,31576,cool to see when smart folks chirp the same stuff you did during your review this is why i joined,joy,0.52,['CowboysTwitter'],0.217,0.0,0.783,0.6124,1,0,1.12,neural,0,0,0,1,0,3,0,0,0,0,0.0,0
+757,31577,try to find the good in the negative the negative can turn out to be good,joy,0.229,"['anxietyrelief', 'openminded']",0.23,0.294,0.476,-0.3818,2,3,3.825,neural,2,0,0,2,2,2,2,2,2,0,0.0,3
+758,31578,brown im sure hell do just fine he can always change to or squad,joy,0.56,"['beer', 'cheer']",0.208,0.234,0.558,-0.3612,2,2,-0.345,neural,0,1,2,0,1,0,1,0,0,1,1.51981790079901,0
+759,31579,how do adults remain jovial amidst all the bad news,joy,0.22,[],0.201,0.243,0.556,-0.1531,1,1,-0.346,neural,0,1,1,1,1,1,1,0,0,1,0.0,0
+760,31580,ill find myself smiling and even laughing at jokes that i dont even think are particularly funny and i know its because you love them,joy,0.62,[],0.417,0.075,0.508,0.9152,5,1,0.0,neural,0,1,1,3,1,3,1,0,0,1,0.0,0
+761,31581,just caught up with s wonderful new series on infectious delight in every interview and film clip,joy,0.667,['EalingComedies.'],0.336,0.0,0.664,0.8225,3,0,0.0,neural,1,1,1,2,1,2,1,1,2,0,0.0,0
+762,31582,so i survived spin trying to get down the stairs was hilarious tho facewithtearsofjoy facewithtearsofjoy,joy,0.792,['jellylegs'],0.326,0.0,0.674,0.7414,1,2,0.0,neural,0,0,0,1,0,1,0,1,0,0,0.0,0
+763,31583,will be a lively evening at ot that one,joy,0.38,[],0.266,0.0,0.734,0.4404,2,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+764,31584,bridesmaid dresses having carnal delight in addition to separates rfpbax,joy,0.417,[],0.302,0.0,0.698,0.5994,1,0,0.0,neural,1,0,0,2,1,2,0,0,1,0,0.0,0
+765,31585,c you have my most heartfelt condolences im glad it passed with levity and love in its heart,joy,0.188,[],0.52,0.0,0.48,0.945,5,1,-0.277,neural,1,0,0,3,0,3,1,0,1,0,0.0,0
+766,31586,root canal therapy has had a bad reputation in the past but new technology has allowed more comfortable procedures,joy,0.417,['dental'],0.203,0.093,0.704,0.5632,1,1,-1.742,neural,0,1,1,0,1,1,1,0,0,1,0.0,0
+767,31587,root canal therapy has had a bad reputation in the past but new technology has allowed more comfortable procedures,joy,0.327,"['smile', 'dental']",0.203,0.093,0.704,0.5632,1,1,-1.742,neural,0,1,1,0,1,1,1,0,0,1,0.545147406734757,0
+768,31588,well that draw is lively,joy,0.538,['EFLCup'],0.625,0.0,0.375,0.6124,2,0,2.882,neural,0,0,0,0,0,0,0,0,0,0,0.0,2
+769,31589,laughter is such a powerful thing and everybody deserves to laugh if u like shitty romcoms and get a giggle outta planet uranus power to u,joy,0.56,[],0.387,0.094,0.519,0.8834,2,2,0.0,neural,2,1,1,4,0,4,0,2,1,1,0.0,0
+770,31590,i got so much fans on here yall and vixx keep me smiling redheart redheart redheart,joy,0.833,[],0.167,0.0,0.833,0.4588,1,0,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+771,31591,a suicidal vet with ptsd so fucking funny let the hilarity begin,joy,0.64,['LethalWeapon'],0.193,0.25,0.556,-0.2567,2,1,0.0,neural,0,1,1,1,1,1,1,0,0,1,0.0,0
+772,31592,is rejoicing that theyve fooled us with these body doubles for so long amp now her death is a secret just like hawkings,joy,0.229,['MSM'],0.198,0.204,0.597,-0.0516,3,2,0.0,neural,3,1,1,1,1,1,1,2,1,1,0.0,0
+773,31593,i dont fuck with people who dont smile back at me in corridors,joy,0.062,[],0.179,0.132,0.689,0.1877,2,0,0.0,neural,0,0,0,1,0,1,0,1,1,0,0.0,0
+774,31594,i still find you pleasing,joy,0.5,[],0.459,0.0,0.541,0.5267,1,0,0.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,0
+775,31595,we have all been there and wished we didnt 25 fails,joy,0.392,"['hilarious', 'AutoCorrect']",0.189,0.0,0.811,0.3252,0,0,-2.0,neural,0,0,0,0,0,0,0,0,0,0,0.381180105271662,-2
+776,31596,dehydrated exhausted stressed but still blessed,joy,0.337,[],0.453,0.292,0.254,0.5994,0,0,2.206,neural,0,0,0,1,1,1,1,0,0,0,0.0,0
+777,31597,dehydrated exhausted stressed but still blessed,joy,0.269,['optimism'],0.453,0.292,0.254,0.5994,0,0,2.206,neural,0,0,0,1,1,1,1,0,0,0,1.59773897367731,0
+778,31598,will whu be old bill free by the time the game with chelsea comes around facewithtearsofjoy facewithtearsofjoy facewithtearsofjoy that will be lively to say the least,joy,0.771,[],0.205,0.0,0.795,0.7351,4,2,0.0,neural,1,0,0,0,0,0,0,0,0,0,0.0,0
+779,31599,when u havent learned to swim thinkingface but you keep working out so youre denser and less buoyant disappointedface but swimming is scary thinkingface but also u cant swim disappointedface,joy,0.154,[],0.056,0.126,0.818,-0.5251,2,2,0.0,neural,2,0,2,2,0,3,0,0,0,0,0.0,0
+780,31600,semores lets get this purpleheart yellowheart atomsymbol rosette grapes lemon blossom babychick frontfacingbabychick woman’sclothes smilingfacewithhorns smilingfacewithhorns alienmonster cheesewedge,joy,0.56,"['mirth', 'SAW', 'keepthetradition']",0.0,0.0,1.0,0.0,1,0,0.0,neural,0,1,0,1,1,1,0,0,0,0,0.0,0
+781,31601,vanilla this would be the height of hilarity were it not for the fact that the adult swan is highly likely to attack,joy,0.24,[],0.0,0.133,0.867,-0.5209,1,1,-1.0,neural,0,0,1,1,1,1,0,0,1,1,0.0,-1
+782,31602,wch having fun watching team north america and cheering team canada,joy,0.625,['NHLNYCSWEEPSTAKES'],0.423,0.0,0.577,0.765,0,1,-0.329,neural,1,0,0,2,0,2,0,0,2,0,0.0,0
+783,31603,top seed johnson chases double delight at tour championship,joy,0.458,['Sports'],0.589,0.0,0.411,0.8225,2,0,0.0,neural,2,0,0,1,0,2,0,0,1,0,0.0,0
+784,31604,this meth documentary is exhilarating,joy,0.339,[],0.403,0.0,0.597,0.4019,1,0,8.0,neural,0,0,0,0,0,0,0,0,0,0,0.0,3
+785,31605,you head north and arrive at a breezy cave it smells sweet you glance at your watch youre running 15 minutes late,joy,0.354,[],0.125,0.0,0.875,0.4588,1,1,-0.409,neural,3,0,1,1,1,1,1,1,1,0,0.0,0
+786,31606,eggos el  he turned around to her smiling before hugging her gently,joy,0.667,[],0.494,0.0,0.506,0.8316,1,0,0.936,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+787,31607,yapyap once upon a time i was an avid fanfiction patron during my k pop heyday,joy,0.542,[],0.128,0.0,0.872,0.296,1,0,0.0,neural,2,0,0,1,1,2,0,1,2,0,0.0,0
+788,31608,to tell the truth and make someone cry is better than to tell a lie and make someone smile,joy,0.271,"['truth', 'lie', 'cry', 'offalonehugots']",0.298,0.12,0.581,0.5574,3,2,3.879,neural,0,1,0,1,2,2,2,1,2,1,2.87383501535757,2
+789,31609,to tell the truth and make someone cry is better than to tell a lie and make someone smile,joy,0.2,"['truth', 'lie', 'cry', 'smile', 'offalonehugots']",0.298,0.12,0.581,0.5574,3,2,3.879,neural,0,1,0,1,2,2,2,1,2,1,3.418982422092327,2
+790,31610,being means letting go of the clinging and attachment to things in your life,joy,0.417,"['happy', 'WednesdayWisdom', 'life']",0.145,0.0,0.855,0.296,0,0,0.0,neural,0,0,0,0,0,1,0,0,0,0,2.751792667015616,0
+791,31611,with a very tired body and mind and sparkling teeth i say to all my followers good night and if there is an apocalypse good luck,joy,0.417,['aspie'],0.313,0.091,0.597,0.7787,4,3,3.627,neural,3,0,0,3,1,3,0,3,2,0,0.0,3
+792,31612,i refuse to be a chirp chirp girl,joy,0.146,[],0.0,0.239,0.761,-0.296,0,1,0.0,neural,0,0,0,2,1,2,0,0,0,0,0.0,0
+793,31613,it was very hard to stifle my laughter after i overheard this comment it really is amazing in the worst ways,joy,0.646,[],0.242,0.193,0.565,0.3581,1,4,0.0,neural,1,0,0,1,1,1,0,1,0,0,0.0,0
+794,31614,while i was walking a little boy in a red shirt56 years of age shouting from a distance of 3 meters in a jovial manner saying,joy,0.62,[],0.104,0.0,0.896,0.4404,1,1,0.0,neural,0,0,0,1,0,1,0,0,0,0,0.0,0
+795,31615,asked one thing from our guys tonight and got it that is football,joy,0.58,"['happy', 'proud', 'disappointed', 'timetoclimbthetable']",0.0,0.0,1.0,0.0,0,0,0.0,neural,1,0,0,1,0,1,0,0,0,0,2.6138796886477396,0
