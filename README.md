@@ -9,3 +9,6 @@ Under this context, I carried out data exploration besides computing Heap's and 
 Link for the Dataset: https://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html
 
 
+### WikiPage Summarizer (29th September 2023 to 14rd October 2023):
+"This project utilized BeautifulSoup 4, a Python library known for its web scraping capabilities. The chosen Wikipedia page, “https://en.wikipedia.org/wiki/Alexander the Great,”
+was scraped, and its content was retrieved, with special attention to maintaining the hierarchical structure of headings and sub-headings".
